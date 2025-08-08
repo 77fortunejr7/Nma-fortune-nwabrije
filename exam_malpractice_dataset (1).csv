@@ -1,0 +1,1001 @@
+Student_ID,Name,Age,Gender,Location,Education_Level,Exam_Type,Malpractice_Type,Caught,Date
+8f5c237e-0035-4e13-9d75-7c0b145997d5,David Welch,18,Male,Ibadan,High School,NECO,Collusion with other candidates,Yes,2025-05-27
+63674197-3985-4cef-90af-4f765cfdb7c2,Michael Adams,17,Other,Kaduna,High School,WAEC,Cheating with electronic devices,Yes,2024-07-08
+f17a1571-4507-4f6a-9d73-ce6877d1a71e,Timothy Green,22,Other,Lagos,Postgraduate,NECO,Use of external assistance,No,2024-04-04
+f81dc639-21da-46c4-a3c6-b5e3347cf009,Derek Larson,22,Female,Ibadan,High School,NECO,Use of external assistance,No,2024-03-01
+83b62f24-3d7f-4639-ac83-3426a8f91173,Sean Lam,25,Female,Kano,High School,JAMB,Cheating with electronic devices,Yes,2023-10-06
+6cce3460-ceab-4620-9ecb-ad8a82bccd89,Ashley Wells,27,Male,Enugu,Undergraduate,Mock Exam,Impersonation,Yes,2024-01-10
+f2d96000-ef0f-423b-9ad3-0394465c7d3a,Marie Lynn,29,Other,Abuja,Undergraduate,WAEC,Copying from neighbors,No,2024-05-26
+b6cea267-7ed6-421b-b968-d516d5895f8a,Malik Lopez,26,Other,Port Harcourt,Postgraduate,WAEC,Cheating with electronic devices,Yes,2024-04-25
+450d5f6e-a317-41fb-8143-58edb783ed91,Joe Patterson,24,Male,Port Harcourt,High School,University Exam,Impersonation,No,2024-04-30
+71e8391c-5948-411b-a1d9-b286820488e7,Christine Orozco,26,Male,Enugu,Undergraduate,NECO,Use of external assistance,No,2024-12-30
+a068d631-efed-41e4-bcc8-0e7d5b4551d0,Matthew Wells,17,Other,Kano,Postgraduate,NECO,Collusion with other candidates,No,2023-09-23
+f3cb5a80-fdf2-42ee-9e6c-fe28145c225f,Samuel Martinez,27,Female,Port Harcourt,Postgraduate,JAMB,Falsification of results,Yes,2024-09-24
+4bc4c249-359f-416b-955d-477388f95a89,James Marsh,22,Male,Enugu,Undergraduate,JAMB,Cheating with electronic devices,Yes,2023-12-14
+2612bfdc-d9f3-4421-a653-c15a83f2249a,Kimberly Burton,25,Male,Benin,Undergraduate,University Exam,Collusion with other candidates,No,2024-08-17
+655c8ca6-5920-4485-bdd1-440fb6c5405b,Jessica Kirby,19,Male,Ibadan,Postgraduate,Mock Exam,Smuggling of unauthorized materials,No,2024-09-24
+bf19448b-b7f1-41ee-b479-ab2802f6ea0f,Bradley Thomas,26,Male,Kano,Postgraduate,University Exam,Cheating with electronic devices,Yes,2024-01-18
+145c94cc-f806-41d2-8ae5-9da80c80eaff,Joanna Harrison,18,Male,Kano,Postgraduate,University Exam,Copying from neighbors,Yes,2024-11-19
+619a5140-6684-40cc-8bfb-69a6b6bae0a6,Taylor Mcintosh,27,Female,Benin,Postgraduate,JAMB,Copying from neighbors,Yes,2024-07-27
+e442779d-ea83-4c08-af1a-3f92dc983382,Debra Reid,18,Other,Ibadan,Postgraduate,JAMB,Cheating with electronic devices,No,2024-08-18
+2850237b-024e-41c7-8d55-eae73fba6014,Ashley Montoya,28,Male,Benin,High School,JAMB,Copying from neighbors,Yes,2025-02-06
+b7e97c2a-dfb5-4e87-9942-360903ad414d,Eric Morales,18,Other,Ibadan,Postgraduate,Mock Exam,Copying from neighbors,Yes,2024-03-21
+e05fc50e-7f5a-492a-87bf-f4710ba9bd84,Shane Nixon,19,Female,Kano,Postgraduate,Mock Exam,Cheating with electronic devices,No,2025-06-22
+66e4427c-308d-4c06-bf71-e26b70f288f8,Shawn Mcneil,30,Male,Abuja,Undergraduate,JAMB,Collusion with other candidates,Yes,2023-09-27
+e09039e9-3a14-47bf-bf88-dbc3acb9c93e,Dr. Shawn Terry MD,22,Other,Abuja,High School,University Exam,Falsification of results,Yes,2023-08-12
+28a8a7f6-443c-4442-bc5d-163ae9011527,Lisa Doyle,19,Male,Benin,Postgraduate,NECO,Impersonation,No,2025-03-08
+a8fed85f-f3a7-4c21-a38c-81b1290d0552,Chelsea Bryant,21,Other,Port Harcourt,Postgraduate,JAMB,Smuggling of unauthorized materials,No,2025-02-17
+4e13bc9c-2083-4fcf-adb4-d068359bdf17,Mike Oliver,29,Other,Benin,High School,NECO,Collusion with other candidates,Yes,2024-05-22
+a8efc55f-0bd5-4743-9a96-98a533bbc87e,Shane Ross,25,Male,Port Harcourt,Postgraduate,NECO,Cheating with electronic devices,Yes,2025-01-20
+1bbf004e-64d2-4ecb-a556-527f9e5bde92,Erica Jennings,16,Male,Abuja,High School,JAMB,Cheating with electronic devices,Yes,2024-10-10
+a261307c-4b48-4dd2-b3f8-2940b85f95de,Alyssa Herrera,23,Other,Benin,High School,Mock Exam,Collusion with other candidates,No,2025-04-06
+0d4e73ce-3336-4135-b4bb-25c487a53bc2,Jessica Rodriguez,22,Female,Kaduna,High School,WAEC,Cheating with electronic devices,No,2024-09-28
+4f58cf49-d01e-4def-a198-554c46afd50a,Kristin Preston,26,Female,Kaduna,Undergraduate,WAEC,Use of external assistance,Yes,2024-12-09
+c34804c1-6fcf-4444-b8c5-9f652706b5e8,James Norton,16,Female,Enugu,High School,NECO,Collusion with other candidates,Yes,2024-05-24
+b39cc8af-3cdc-4b24-942b-2a4278b36300,Ricardo Gutierrez,29,Male,Kaduna,High School,JAMB,Smuggling of unauthorized materials,Yes,2024-08-13
+346c9836-a2a8-447f-9cfc-42ae91335712,Kristen Collins,17,Female,Abuja,High School,Mock Exam,Falsification of results,Yes,2024-02-13
+55281e15-b263-4d0c-b1f7-4bbb2febec59,Joseph Weber,17,Male,Kano,Undergraduate,University Exam,Smuggling of unauthorized materials,Yes,2023-11-10
+135f0c6b-7a96-482c-8ab5-ecf2da6ee5ec,Alicia Cummings,27,Male,Kano,Undergraduate,WAEC,Smuggling of unauthorized materials,No,2025-03-21
+91b21025-87ed-4687-9ceb-dfa51d21fd79,Jacqueline Sanders,29,Female,Kaduna,Postgraduate,Mock Exam,Use of external assistance,No,2024-10-03
+3815a178-2542-4963-91c4-dbbffcb26ec5,Christina Winters,19,Male,Ibadan,High School,WAEC,Copying from neighbors,Yes,2024-11-19
+92969ab9-99dd-4bc8-b179-5e8c74106327,Carrie Price,25,Male,Lagos,Postgraduate,University Exam,Copying from neighbors,Yes,2024-11-04
+da87b045-8103-4cb2-a747-5c2f022138a7,Benjamin Myers,16,Other,Abuja,High School,WAEC,Copying from neighbors,Yes,2024-07-17
+3a9e672f-7d18-4d2c-80c1-18c89549cd78,Margaret Diaz,22,Female,Abuja,Postgraduate,NECO,Copying from neighbors,Yes,2024-02-04
+d596885d-c2af-4c24-b8e4-680e03c7cfb2,Jennifer Martinez,17,Female,Enugu,Undergraduate,NECO,Use of external assistance,No,2025-06-11
+1d898420-2583-4145-94a5-7552b84aa436,David Nichols,22,Female,Kaduna,High School,JAMB,Smuggling of unauthorized materials,No,2025-06-16
+90bcd00f-e031-4181-8150-6e19f8b2e462,Stephanie Hardy,17,Male,Benin,Postgraduate,Mock Exam,Cheating with electronic devices,Yes,2025-03-05
+17331e2b-7031-4d9c-aa7d-57be9503b68b,Laura Smith,21,Other,Ibadan,High School,JAMB,Cheating with electronic devices,Yes,2024-01-15
+1f9b35e5-6dff-412e-84c1-4a9de3394825,Ann Jackson,26,Female,Kano,Undergraduate,Mock Exam,Use of external assistance,No,2024-06-06
+d9f2c715-8757-4f2b-80d4-0ba1dba9ba2b,Michael Stone,15,Other,Ibadan,Postgraduate,WAEC,Collusion with other candidates,No,2023-10-09
+fa3c78b1-3e8b-49a6-afbc-1d269fac0c1d,Sharon Jones,18,Male,Kano,Undergraduate,JAMB,Copying from neighbors,Yes,2025-05-01
+611a4442-7d25-487b-8c2b-af8e23a6877a,Charles Wheeler,25,Male,Ibadan,Postgraduate,University Exam,Impersonation,Yes,2024-12-09
+9884369e-ce62-42d8-80af-5f2d2facc35c,Alexis Morris,17,Other,Kaduna,Undergraduate,WAEC,Cheating with electronic devices,No,2024-05-26
+f64ad176-4130-4236-acf0-59c5cb74bfb7,Tara Pennington,19,Other,Ibadan,High School,University Exam,Copying from neighbors,No,2025-04-26
+6df6e381-41a8-41b2-8a8e-7500351280c4,Kaitlyn Williams,15,Male,Abuja,Postgraduate,NECO,Copying from neighbors,Yes,2024-07-20
+d2cadf54-73ec-4468-a261-1f3a6a0d5485,Elizabeth Dean,26,Other,Kano,Undergraduate,NECO,Cheating with electronic devices,No,2024-05-28
+c4dd9d7f-ab58-48b9-aed6-9c7657c5e397,Erika Washington,26,Male,Enugu,High School,NECO,Use of external assistance,Yes,2025-02-25
+9fefcd87-2ce9-4a89-b140-392bea5eccc8,Nicholas Goodman,26,Other,Kaduna,Postgraduate,NECO,Collusion with other candidates,Yes,2023-10-20
+836920dd-b2db-457e-887c-e2db62695b15,Joseph Hicks,20,Female,Lagos,High School,JAMB,Falsification of results,No,2024-09-21
+3c42a67d-53ea-4988-88b8-ff4336ce8faf,Nicole Shepherd,22,Female,Kano,Postgraduate,WAEC,Smuggling of unauthorized materials,Yes,2025-05-07
+cf8a1b80-a19b-449f-aa28-54cd6c6b1d20,Derek Bates,30,Male,Port Harcourt,Undergraduate,JAMB,Impersonation,Yes,2025-06-04
+56b1f3bb-d963-4f83-9f10-91e6f693d0c2,Stacey Barrett,22,Male,Port Harcourt,Undergraduate,JAMB,Impersonation,Yes,2024-09-09
+4c92bea6-b1c5-4463-8802-3490845659cd,Jill Stokes,23,Female,Kaduna,Postgraduate,Mock Exam,Impersonation,Yes,2024-03-16
+480bc2cf-6be1-42b4-a5e0-8a496dffd955,Teresa Wilkins,18,Female,Kano,Postgraduate,JAMB,Cheating with electronic devices,Yes,2024-07-04
+952556eb-84c0-4d2f-bda2-53d71d6c481e,Scott Miller,28,Female,Enugu,Undergraduate,Mock Exam,Copying from neighbors,Yes,2025-06-20
+97aa5d0c-0815-456b-85bc-24a96144eda2,Justin Branch,27,Other,Port Harcourt,Undergraduate,WAEC,Use of external assistance,No,2024-10-07
+f2c70939-e18f-4de6-8322-c187d1c0b1aa,Laura Mccarty,15,Other,Port Harcourt,Undergraduate,University Exam,Cheating with electronic devices,No,2023-12-23
+80fe99d7-11d9-443d-90a2-1b71510eb31c,Maria Berger,25,Other,Abuja,Postgraduate,JAMB,Copying from neighbors,No,2023-10-30
+3c3b4cbc-b6da-4f6e-9b90-701a7936bdad,Paul Boyd,28,Female,Kaduna,Postgraduate,JAMB,Copying from neighbors,Yes,2023-10-23
+74026a14-56ea-48dc-aec9-0ec66fbdc5a9,Nicole Wu,21,Female,Kaduna,Postgraduate,NECO,Copying from neighbors,No,2023-08-23
+3cfb0dc3-1b0c-470e-899e-0ae1631a7604,Melissa Jones,27,Other,Lagos,Undergraduate,JAMB,Collusion with other candidates,No,2024-05-24
+b85a7e9c-4c85-4943-8e32-2107c6779f32,Jack West,25,Female,Benin,Undergraduate,NECO,Copying from neighbors,No,2024-10-02
+6dd7f859-8b9d-4bf8-8479-b86dcbd20e0b,Howard Roberson,20,Other,Abuja,Undergraduate,Mock Exam,Use of external assistance,No,2023-09-25
+baa65b5b-8804-4e91-ae1c-2fe31fc982d2,Anthony Bowers,17,Male,Ibadan,High School,NECO,Collusion with other candidates,Yes,2024-05-15
+54bedb8e-b50a-41e6-b4ee-aff1c10c79c8,Eric Ruiz,16,Male,Benin,Postgraduate,WAEC,Smuggling of unauthorized materials,No,2024-10-07
+12fc56ff-c03f-4c83-8368-e685d653dab0,Michael Ali,21,Other,Kaduna,Undergraduate,University Exam,Collusion with other candidates,Yes,2024-09-04
+ae54fde7-302a-40da-ac8c-24ac724b4ba5,Steven Gardner,15,Male,Kaduna,High School,NECO,Falsification of results,No,2024-08-11
+94e3be0b-a1cc-4763-8bf5-6f9e7912857e,Mr. Robert Soto Jr.,16,Other,Port Harcourt,High School,University Exam,Collusion with other candidates,No,2023-08-15
+973181d6-55f9-4097-9889-ffd296ff91a2,Theodore Hernandez,25,Female,Kaduna,Postgraduate,University Exam,Collusion with other candidates,No,2025-02-14
+622c9554-2d33-4594-91f2-74353fa7a96b,Jessica Kramer,29,Female,Port Harcourt,Postgraduate,JAMB,Falsification of results,No,2025-04-25
+9aa85eac-3be2-4a5a-9884-38411ea26d6b,Michele Pham,22,Female,Benin,High School,JAMB,Collusion with other candidates,No,2025-05-09
+a1fd3ffb-50a0-4267-9dbe-ec7da03451cc,Rhonda Moore,25,Female,Abuja,High School,NECO,Collusion with other candidates,No,2024-03-29
+cdc15f6d-14a5-4d6b-8f14-08e9e73dbaec,Carlos Anderson,19,Other,Port Harcourt,High School,University Exam,Smuggling of unauthorized materials,No,2023-10-15
+caea0bae-ae5a-4478-84a7-777ac503926d,Alan Daniels,29,Female,Lagos,High School,University Exam,Smuggling of unauthorized materials,Yes,2024-11-20
+0ddf4b29-db06-4419-aa54-0315d6d200cd,Andrew Michael,27,Female,Lagos,Undergraduate,JAMB,Falsification of results,No,2024-02-14
+ffdb457c-132f-4a34-9188-6f23486ce095,Philip Scott,28,Other,Port Harcourt,Undergraduate,NECO,Impersonation,No,2024-06-27
+f30c7eb7-e0a2-4cfb-8db7-1da7e3576c64,Megan Romero,30,Male,Kaduna,Undergraduate,University Exam,Use of external assistance,Yes,2024-08-10
+03896f9b-6eee-462e-b792-fa8023d453af,Deborah Hale,29,Male,Lagos,Undergraduate,Mock Exam,Copying from neighbors,Yes,2024-06-20
+22cc1ba9-8208-4dfd-9fb3-6c4bad8ce1b8,Brian Pace,17,Other,Kaduna,High School,University Exam,Collusion with other candidates,Yes,2024-04-11
+b66ee490-8d3f-4eff-9a46-8358d287d4bb,Christina Matthews,23,Female,Enugu,High School,University Exam,Impersonation,No,2025-02-04
+24d04435-c3f6-4ca9-9cea-573107c9e31b,Linda Blankenship,27,Female,Kaduna,Undergraduate,WAEC,Smuggling of unauthorized materials,Yes,2023-09-27
+0d6c1a94-55b8-4347-8d81-ffebc091fe29,Tammy Pierce,16,Female,Port Harcourt,Postgraduate,WAEC,Falsification of results,Yes,2024-09-05
+0484e135-3111-467a-a2f4-859ac941e30b,Claudia Carlson,15,Male,Port Harcourt,High School,Mock Exam,Collusion with other candidates,Yes,2024-09-20
+22edeea5-9902-430f-b593-75b3bcb46961,Jose Hall,19,Female,Abuja,Postgraduate,NECO,Smuggling of unauthorized materials,No,2023-09-14
+f647f7c3-f183-49fc-ab13-386810ffc652,Darlene Montoya,26,Male,Abuja,High School,JAMB,Cheating with electronic devices,Yes,2023-12-25
+e2514bc9-6385-48e8-8511-9c904024fab7,Michelle Long,24,Other,Kaduna,Undergraduate,NECO,Cheating with electronic devices,Yes,2024-06-11
+91b1911d-a206-4b6f-aa93-399585c9443b,Kelly Mckenzie,18,Other,Ibadan,Postgraduate,Mock Exam,Falsification of results,Yes,2025-01-29
+f586df45-0aa3-428d-b71d-d5709ea4d74d,Katelyn Steele,16,Female,Kaduna,Postgraduate,JAMB,Cheating with electronic devices,No,2025-07-08
+902328b5-7bd5-4d1e-8c71-59f84c8c5092,Shawn Davenport,15,Female,Benin,High School,University Exam,Impersonation,No,2023-12-01
+14a9fa7e-6a34-4f68-ba1f-2573989f89cb,Timothy Glover,19,Female,Kano,Postgraduate,Mock Exam,Use of external assistance,No,2024-02-03
+36202079-e918-4fad-9fae-0c75993cb668,Kimberly Reed,30,Female,Kaduna,Postgraduate,Mock Exam,Impersonation,No,2023-11-20
+ade32758-82e3-4f64-9ee7-d48ac86ca363,Yolanda Torres,22,Male,Ibadan,Undergraduate,NECO,Falsification of results,No,2023-08-11
+053a3554-34fd-41d1-9809-2457c4c512af,Ms. Stephanie Stanley DDS,27,Female,Lagos,Undergraduate,JAMB,Collusion with other candidates,No,2024-06-23
+76049873-06af-43a4-8379-e8f376bd1e46,Michael Williamson,21,Female,Ibadan,Undergraduate,JAMB,Copying from neighbors,No,2024-01-08
+7a6601b8-782d-4539-a671-64ba701a5f06,Alexandra Lopez,15,Other,Port Harcourt,High School,NECO,Use of external assistance,No,2024-06-01
+547e1593-923e-45c0-92bc-d1b34eaedd25,Shaun Eaton,30,Other,Port Harcourt,Postgraduate,University Exam,Use of external assistance,No,2025-07-27
+3f9cded6-6d0e-4cd5-9e21-845c8346ae1c,Christopher Jones,29,Male,Abuja,Undergraduate,NECO,Smuggling of unauthorized materials,Yes,2024-11-28
+9c7506c6-d58b-46b0-b016-dc0214c21622,David Hughes,24,Other,Enugu,Undergraduate,Mock Exam,Copying from neighbors,No,2023-12-09
+b340ec59-1c16-4856-a5d0-42d7f8f73c9c,Kathy Lindsey,28,Other,Enugu,Undergraduate,University Exam,Impersonation,No,2023-11-25
+9d76ebca-4b61-4695-80e0-feac25303da7,Rebecca Daniel,23,Male,Abuja,Postgraduate,NECO,Impersonation,Yes,2023-09-06
+5f1a56e9-cc25-42eb-837e-cc4b160c89ed,Lisa Bates,20,Male,Port Harcourt,Postgraduate,University Exam,Impersonation,No,2025-04-27
+fc612701-60a3-4fe8-9e2d-be651db12b96,Brandy Walters,18,Male,Ibadan,High School,JAMB,Collusion with other candidates,No,2024-08-22
+09123364-e177-43a1-a7c5-71a48cd2bdb3,Leonard Horton,15,Other,Kano,Undergraduate,WAEC,Cheating with electronic devices,No,2023-10-10
+bfba9961-ed0f-4e71-8f04-5a2e1ccc7942,Mario Henry,19,Other,Benin,High School,WAEC,Copying from neighbors,No,2023-12-21
+d6b211a8-5ff7-42da-9770-f5aebb7a0da2,Crystal Brown,30,Female,Benin,Undergraduate,NECO,Cheating with electronic devices,No,2023-08-29
+72b965d3-4a27-47bd-acf6-8ab27516d5ec,Philip Snyder,30,Male,Abuja,Undergraduate,University Exam,Cheating with electronic devices,Yes,2025-02-28
+4c82077c-df9e-4874-b120-e990e8da4b59,Rachel Sims,19,Male,Ibadan,High School,NECO,Cheating with electronic devices,No,2025-05-26
+21f61599-b85e-41f9-9723-b8e468584875,Shawn Harvey,22,Other,Kaduna,Undergraduate,University Exam,Impersonation,No,2025-08-02
+3d11b0a2-94e4-40df-b1a1-85812c4e15db,Alan Waters,24,Other,Lagos,Postgraduate,WAEC,Falsification of results,Yes,2023-08-25
+ea16380f-c906-4fd5-aaa5-da237beff10c,Rose Anderson,21,Female,Abuja,High School,NECO,Collusion with other candidates,Yes,2024-05-21
+08192e65-6d20-495b-9c41-5e067b590b41,James Wright,20,Male,Kaduna,Undergraduate,Mock Exam,Smuggling of unauthorized materials,No,2025-03-27
+f92e7ffd-37b5-4b9f-81f1-92285794a960,Henry Mcguire,16,Male,Ibadan,Postgraduate,JAMB,Use of external assistance,No,2023-10-30
+0ab65e09-0fb6-4eb5-bb8a-0cde17c59f89,Ryan Sandoval II,17,Other,Port Harcourt,Undergraduate,Mock Exam,Use of external assistance,Yes,2023-10-09
+3520e381-1267-4bf8-84cd-d830fa3bf8ea,Gary Aguirre,28,Male,Port Harcourt,Postgraduate,NECO,Impersonation,Yes,2024-03-14
+154e2945-b6eb-4600-94c1-09e2cf6e368b,Craig Briggs,17,Male,Kano,Undergraduate,Mock Exam,Use of external assistance,No,2025-04-08
+7e7c356c-1a6c-4424-ad04-87016ede7698,Sierra Quinn,29,Male,Benin,Postgraduate,JAMB,Use of external assistance,No,2025-07-26
+5d1fa70a-7457-4572-880b-e9167056fa60,Stacy Deleon,23,Other,Benin,Undergraduate,WAEC,Copying from neighbors,Yes,2024-05-30
+d047c31b-4a7f-4434-af36-3bc24f3505ff,Haley Estrada,28,Other,Enugu,Postgraduate,JAMB,Cheating with electronic devices,Yes,2024-05-21
+50e60560-8938-42c6-9df6-2628473e48c7,Kimberly Warner,22,Other,Lagos,Postgraduate,JAMB,Copying from neighbors,Yes,2025-07-16
+6f2d960d-e92d-4fb5-9a91-f82717161b99,Theresa Mitchell,20,Female,Benin,Undergraduate,NECO,Copying from neighbors,No,2024-09-17
+126b1703-a2e8-4a9a-86b5-3ebdb74885ce,Chad Pearson,30,Male,Benin,Undergraduate,University Exam,Impersonation,No,2024-07-23
+5ec50fca-badd-43e7-9e36-5d7a2514aae2,Mr. Joel Henson MD,18,Male,Enugu,Undergraduate,University Exam,Impersonation,No,2025-01-01
+bfea7552-3858-4ed2-833d-acce20fab4df,Wesley Everett,16,Female,Abuja,Undergraduate,JAMB,Impersonation,Yes,2023-09-11
+a6f802c3-8ac1-47c1-a785-0c07cf0602f4,Taylor Walker,27,Other,Lagos,Postgraduate,Mock Exam,Smuggling of unauthorized materials,No,2025-01-13
+72c3f0bf-585c-47b1-9aa6-b4f32a32cf99,Lisa Cruz,16,Male,Enugu,Postgraduate,University Exam,Use of external assistance,No,2024-04-04
+1dbe0be7-2371-41fa-aee0-54e52a4d35d8,Luke Carpenter,16,Male,Ibadan,Postgraduate,NECO,Impersonation,No,2025-02-10
+927fe029-3314-48df-a91e-8a114bb7fe48,Derek Marshall,30,Male,Lagos,Postgraduate,Mock Exam,Falsification of results,Yes,2023-12-14
+2385dee6-bca9-4ea7-8971-48d08f93bdd3,Rachel Russell,20,Female,Lagos,Postgraduate,University Exam,Cheating with electronic devices,Yes,2024-10-27
+f92c8c9d-ed13-4c4f-82a4-3d90fe0a59f5,Michelle Torres,18,Female,Abuja,Postgraduate,NECO,Smuggling of unauthorized materials,No,2024-06-09
+aea0f465-30f0-496d-aebe-fe2ad828d95c,Judy Smith,23,Female,Benin,Undergraduate,NECO,Smuggling of unauthorized materials,Yes,2024-07-22
+747cbcba-bc58-447c-ac82-06cbd1d3a7c7,Tonya Copeland,27,Male,Kano,High School,JAMB,Falsification of results,No,2024-02-25
+7d1680ef-3db8-498d-973c-bae0debf5d74,James Mendez,25,Other,Ibadan,High School,JAMB,Use of external assistance,No,2024-12-28
+4fa7ca9f-eaf8-4e55-921e-a31ebe53bf8d,Paul Yoder,30,Male,Benin,Postgraduate,University Exam,Impersonation,No,2024-11-27
+0f4f187f-bf54-4979-a984-753b038bc5ae,Robert Watts,27,Female,Enugu,High School,NECO,Copying from neighbors,No,2024-03-01
+e445763b-ac26-418c-9477-3d0babee4c7e,Jasmine Jensen,22,Female,Lagos,Undergraduate,University Exam,Use of external assistance,No,2023-09-21
+a38faf77-301c-4bbd-a537-89232a6c4c74,Erica Macias,27,Other,Kano,Undergraduate,WAEC,Collusion with other candidates,No,2024-11-12
+f6e2d83b-b774-4f0c-ac88-cc97a7f1fc1d,Christopher Walker,18,Female,Abuja,Postgraduate,University Exam,Cheating with electronic devices,Yes,2023-10-11
+17dc2c18-68ff-470b-a3e9-b1b76374eee4,Sharon Pruitt,28,Other,Kano,High School,University Exam,Falsification of results,No,2023-09-29
+9f53d6a6-b4e6-4755-81c4-e7c980a0fda1,Frank Gilmore,25,Other,Kaduna,Postgraduate,WAEC,Falsification of results,No,2024-10-12
+f9a74a7e-3ccb-4c84-9a84-16afc1390ec7,Carolyn Hampton,27,Female,Benin,Postgraduate,WAEC,Copying from neighbors,Yes,2024-08-05
+8f7e63d5-f429-41ff-b982-890008c8f688,Nicole Williams,22,Other,Ibadan,High School,WAEC,Smuggling of unauthorized materials,Yes,2024-06-13
+e2dad476-6b66-441c-b56e-b721d9d07ffd,Yesenia Miller,18,Female,Kano,Postgraduate,JAMB,Cheating with electronic devices,Yes,2024-12-24
+fc2e1f92-8d48-4147-b437-d32432b16e4f,Brandon Lewis,25,Male,Ibadan,Undergraduate,JAMB,Smuggling of unauthorized materials,Yes,2024-03-25
+36f7da69-d331-4989-9479-f15387778db9,Donna Hensley,22,Other,Kaduna,Postgraduate,NECO,Collusion with other candidates,Yes,2023-11-19
+114f404a-93dc-4360-b4c4-5dea9351573b,Bradley Wilson,17,Other,Kaduna,Postgraduate,NECO,Smuggling of unauthorized materials,Yes,2024-05-17
+ac9967ab-687b-4d87-97d7-a8bdef22235a,David Foster,22,Female,Ibadan,Undergraduate,JAMB,Use of external assistance,Yes,2024-02-20
+3911fb85-b4d7-4f4a-8168-0ee4ec890afa,Erin Fitzgerald,29,Female,Kano,High School,University Exam,Impersonation,No,2024-10-31
+6e05d131-de44-4c34-bca3-06f885c77868,Stacey Fields,28,Other,Ibadan,Undergraduate,JAMB,Collusion with other candidates,No,2025-02-20
+98bae53b-66a3-44e7-84cf-cc23fc160a18,James Roberts,30,Male,Port Harcourt,Undergraduate,Mock Exam,Impersonation,No,2025-05-29
+59d0bffd-d691-48b5-9b08-80d0797cc0ad,David White,24,Male,Kaduna,Undergraduate,WAEC,Copying from neighbors,Yes,2024-11-27
+ec53b3fc-9799-431e-a55f-52b84f4eebee,Gerald Spencer,30,Female,Port Harcourt,Postgraduate,JAMB,Collusion with other candidates,Yes,2025-06-22
+1f101d36-bf40-4269-98d5-8c67abf71011,Sharon Dunn,23,Other,Kano,Postgraduate,WAEC,Use of external assistance,Yes,2024-06-27
+7595c9ce-5928-485c-9d51-5c54075ae66d,Deborah Smith,24,Female,Lagos,Postgraduate,JAMB,Use of external assistance,Yes,2025-05-12
+00d4f2ab-d142-473c-b548-77ad180aad7e,Keith Gallagher,17,Female,Enugu,Postgraduate,University Exam,Collusion with other candidates,Yes,2025-03-17
+67bb6aa9-e4c2-4074-96ee-e010121aee5f,Carol Patel,19,Other,Enugu,Postgraduate,Mock Exam,Impersonation,Yes,2024-12-26
+c878e692-9058-47eb-92d5-309c64211bd4,Ryan Rivera,23,Female,Ibadan,Postgraduate,JAMB,Falsification of results,Yes,2024-08-05
+13af595f-b9ca-45c4-845f-03f8f58fcc4d,Brittany Owens,29,Male,Kano,High School,University Exam,Falsification of results,No,2024-07-11
+230a1651-8f1a-4364-a544-1d35be691963,Luis Hill,17,Female,Lagos,Undergraduate,Mock Exam,Cheating with electronic devices,No,2024-10-12
+63a66a49-3830-40dc-9ee7-aec45b5857ca,Rhonda Berg,26,Other,Ibadan,Postgraduate,University Exam,Falsification of results,No,2024-09-27
+4363569b-09ce-4715-a46d-15c12ac04db8,Andrea Roberson,18,Other,Port Harcourt,Undergraduate,WAEC,Copying from neighbors,No,2024-03-05
+e29ac3cd-35f1-4b9f-82e8-2762b381b8df,James Sanchez,22,Other,Abuja,Postgraduate,University Exam,Use of external assistance,No,2023-12-18
+6c1bd7e4-ad90-47b8-8eb4-dca69726064e,Steven Mccullough,28,Male,Kano,High School,WAEC,Impersonation,No,2024-06-16
+37131607-8ca7-47f6-8603-7b8bd43c3ed6,Henry Dorsey,18,Male,Port Harcourt,Postgraduate,NECO,Smuggling of unauthorized materials,No,2024-12-14
+e16b1ad2-5550-4f87-a020-3dc248d3b9a9,Rodney Martin,26,Other,Kaduna,Postgraduate,NECO,Smuggling of unauthorized materials,Yes,2023-08-11
+ef59f5ab-2b3d-4914-b7a4-ef6a28eec0f5,Matthew Burns,30,Other,Kaduna,Undergraduate,WAEC,Use of external assistance,No,2023-09-19
+4d8e2546-7cb7-44ed-8da5-09925fe020d1,Nicole Herman,21,Female,Benin,High School,JAMB,Cheating with electronic devices,No,2024-08-28
+7e1ef003-bb3a-4c42-bc58-59e2e59f2595,Marilyn Cole,26,Male,Kaduna,Undergraduate,NECO,Cheating with electronic devices,No,2024-11-26
+21869e24-50e5-453e-8ad4-7669844a818f,Eric Hanna,17,Other,Port Harcourt,Postgraduate,Mock Exam,Cheating with electronic devices,Yes,2025-02-07
+a9ff0a8e-3028-49d0-8d42-d6986da6940d,Dominique Boone,25,Male,Kano,Postgraduate,NECO,Cheating with electronic devices,Yes,2025-05-15
+5aee82da-e850-4374-a036-1a937b91e77e,Vanessa Gordon,21,Male,Enugu,High School,Mock Exam,Cheating with electronic devices,No,2024-11-01
+edaa6ed8-d7c2-4ea2-9fa8-3c3b19ccf607,Andrew Harris,19,Male,Ibadan,High School,WAEC,Use of external assistance,Yes,2024-10-27
+c5e867d4-5b7b-4de0-b94b-56ea741eeb65,Heidi Miller,19,Male,Enugu,High School,Mock Exam,Impersonation,Yes,2024-07-14
+37ed23b8-3820-443a-9cbf-a7ffde71aebf,Patrick Gaines,20,Female,Lagos,High School,University Exam,Copying from neighbors,Yes,2025-01-14
+6fc5b489-0f3d-4498-bfff-be5ad8d88608,Christopher Phillips,17,Female,Benin,Undergraduate,Mock Exam,Copying from neighbors,Yes,2024-11-16
+53e5a77f-802f-476d-a38e-f1ee02700b93,Faith Jenkins,29,Other,Port Harcourt,Postgraduate,WAEC,Use of external assistance,No,2025-02-24
+10dc7173-5ebd-451a-a9a3-a075922c71f7,Jeffrey Smith,29,Other,Lagos,High School,University Exam,Falsification of results,No,2023-11-17
+ee880b10-ffb7-40af-bc65-6d97ddb20644,Susan Bush,28,Other,Abuja,Undergraduate,University Exam,Cheating with electronic devices,Yes,2025-07-29
+a9504afc-bb8b-4d8f-a2dd-5f636001a8c8,James Harvey,25,Other,Kano,High School,NECO,Impersonation,No,2024-04-15
+1cb954cd-aab8-48cf-8c5f-8de6e8f7bb09,Kristen Gonzalez,27,Other,Ibadan,Undergraduate,Mock Exam,Copying from neighbors,No,2025-05-01
+c5d42c2b-4cd0-47a9-8ea8-0e98d4c88554,Hannah Rodriguez,18,Other,Abuja,Postgraduate,Mock Exam,Use of external assistance,Yes,2024-11-25
+0333dcfb-5bfd-45a4-8393-c964ba6d1dc3,Christopher Baker,28,Female,Port Harcourt,Undergraduate,JAMB,Falsification of results,No,2023-12-24
+6c766711-03cd-40e9-bcf2-7530b3fb9222,Anne Mccoy,27,Female,Abuja,Undergraduate,University Exam,Impersonation,No,2024-01-17
+d374c87c-3b11-409b-9654-834b85537a25,Austin Burns,26,Male,Benin,High School,WAEC,Falsification of results,Yes,2023-12-25
+0dc7dafb-af6b-4dcf-a2f4-c90dc96c6bfb,Anna Clarke,17,Female,Abuja,Postgraduate,JAMB,Falsification of results,Yes,2024-11-15
+c3b981a5-d5d9-42e6-823e-206bb62929f9,Elizabeth Bell,16,Other,Enugu,Postgraduate,WAEC,Smuggling of unauthorized materials,No,2023-09-26
+729a2d2b-c2f3-4603-a896-621e68258c50,William Frank,28,Other,Lagos,Undergraduate,Mock Exam,Impersonation,No,2025-03-29
+2928e250-b665-4d8f-a336-d7456359ea30,Kevin Whitaker,18,Other,Port Harcourt,High School,University Exam,Collusion with other candidates,Yes,2025-04-06
+583c4136-4df6-43b8-a65b-bbf7425f7108,Carmen White,26,Other,Enugu,High School,JAMB,Copying from neighbors,Yes,2023-11-11
+fd54b324-c748-425f-8852-d9bf34b87527,Ryan Tyler,28,Other,Lagos,Postgraduate,JAMB,Cheating with electronic devices,Yes,2024-08-14
+1d52d7ac-60d6-4529-8d47-d2dc7e1fbff4,John King,23,Other,Ibadan,Undergraduate,JAMB,Cheating with electronic devices,Yes,2023-11-12
+c8f36746-ea60-40f5-8fff-c069c435b9a4,Cathy Young,19,Other,Kaduna,High School,NECO,Use of external assistance,Yes,2023-08-29
+ed96a152-994d-4cd0-8258-3b54ec2f2bdd,Christopher Martinez,17,Other,Port Harcourt,Undergraduate,University Exam,Smuggling of unauthorized materials,No,2025-03-25
+032101bc-c729-468d-ae91-61239f887ebc,Christopher Brown,20,Female,Ibadan,Postgraduate,JAMB,Falsification of results,Yes,2024-11-07
+101e280b-db51-4b9a-83fa-daea22a07bbf,Christopher Smith,16,Male,Kano,Postgraduate,WAEC,Use of external assistance,Yes,2023-08-31
+0fbe0fcf-2590-45b9-b1a4-13d1755ecfd5,Judy Miranda,23,Female,Kaduna,Undergraduate,Mock Exam,Smuggling of unauthorized materials,No,2023-08-08
+7ae6f2d7-d1e6-4745-a5ac-5d43e2ba7c1f,Edwin Brown,23,Male,Abuja,Undergraduate,University Exam,Cheating with electronic devices,No,2025-03-14
+4e3105ac-c6cf-4119-95b1-fcff8990b752,Rachel Cook,30,Other,Ibadan,High School,NECO,Smuggling of unauthorized materials,Yes,2025-03-06
+9a9392e5-d369-4cba-950b-b850fe0b0cd9,Charles Bernard,15,Male,Ibadan,High School,NECO,Falsification of results,No,2025-06-16
+c70c61b0-6e08-45b0-826e-066ae250f3c7,Maria Barber,24,Female,Abuja,High School,University Exam,Use of external assistance,No,2024-04-17
+c55b070f-d311-4a3d-a692-a718042fcebf,Eric Delgado,20,Male,Kaduna,Postgraduate,NECO,Copying from neighbors,No,2024-11-06
+a19d07ea-ade2-489c-be48-28c729e1ad6a,Mike Parker,17,Female,Lagos,Undergraduate,WAEC,Smuggling of unauthorized materials,Yes,2024-02-09
+247d98cd-4886-4de9-a213-d446a315dc43,Jennifer Fox,25,Other,Kaduna,Postgraduate,University Exam,Use of external assistance,No,2023-12-19
+825d8aba-ce47-48c0-ad71-3d3cda6ac49d,Jason Gutierrez,24,Male,Kaduna,High School,JAMB,Collusion with other candidates,No,2025-07-09
+9bb4c13a-e85d-4f46-905c-6c6b3d0101a1,Mary Blair,26,Male,Kaduna,High School,NECO,Smuggling of unauthorized materials,No,2025-07-25
+82f2fb65-57d3-4121-9497-d97990c702b4,Rebecca Cummings,17,Female,Ibadan,Postgraduate,JAMB,Collusion with other candidates,No,2024-01-07
+f11ce118-4e47-40d8-85ed-2eb29b45e10d,Miguel Colon,20,Male,Abuja,Postgraduate,Mock Exam,Collusion with other candidates,No,2025-03-01
+ce75baf6-89a8-4aaf-8beb-8e9d5be45c12,Ruth Farmer,26,Other,Kano,High School,WAEC,Collusion with other candidates,No,2023-08-22
+c574fdf6-6674-416f-93f5-64774edd4804,Chelsea Morgan,21,Male,Kano,Postgraduate,WAEC,Collusion with other candidates,No,2024-04-29
+bc80fc47-e0f9-416b-a2dd-6a5a7acd5696,Thomas Lee,29,Other,Benin,Postgraduate,Mock Exam,Use of external assistance,No,2025-03-13
+2b797b43-abea-476d-a6f9-b2bbcb8708b0,Shelley Williams,25,Male,Benin,High School,University Exam,Smuggling of unauthorized materials,No,2024-01-22
+5ed74a3e-3b7b-4dca-9624-da1ffb1f1457,Lisa Hopkins,23,Other,Lagos,Undergraduate,Mock Exam,Cheating with electronic devices,No,2023-10-24
+e44ff0b2-3034-41ae-a3be-466af95309f3,Taylor Shah,29,Female,Lagos,High School,JAMB,Falsification of results,No,2024-05-26
+55c89d6c-00c3-4079-a023-f44e827d3194,Donald Rogers,17,Other,Abuja,Postgraduate,Mock Exam,Copying from neighbors,No,2025-03-28
+a22f9519-1d99-429c-95f0-bb201d2e9c45,Robert Simpson,29,Other,Lagos,Undergraduate,Mock Exam,Use of external assistance,Yes,2024-03-16
+e46a77a1-bf3e-40f9-a719-8ae31a0bf938,Melissa Hart,25,Other,Benin,Postgraduate,NECO,Cheating with electronic devices,No,2023-11-21
+b261aeac-4a31-4185-911d-ede050cf578b,Taylor Archer,18,Female,Abuja,Postgraduate,NECO,Cheating with electronic devices,Yes,2024-01-31
+a3ce2ae6-6871-4fbf-86eb-4c2f2ee04449,Vanessa Anderson,29,Female,Kano,Undergraduate,JAMB,Impersonation,No,2024-01-11
+db658542-c5fe-4949-8caf-ea0da30f074d,Timothy Small,28,Female,Lagos,Postgraduate,JAMB,Cheating with electronic devices,No,2024-06-29
+f179e2b2-1cdd-4fc7-a0ab-7b40c6e497dd,Joann Taylor,18,Other,Kaduna,Undergraduate,JAMB,Use of external assistance,Yes,2024-06-30
+68ffde94-0c02-4cee-b4d4-bde725332e6a,Jennifer Hogan,25,Male,Kano,Undergraduate,JAMB,Use of external assistance,No,2024-03-28
+b3a36ceb-8c11-44ac-92b7-7df3cd7b6b62,Rachael Morgan,19,Other,Abuja,Undergraduate,Mock Exam,Smuggling of unauthorized materials,No,2024-10-19
+140e86e3-0760-4c3b-afca-d4cf2152ab63,Jason Rush,19,Other,Abuja,Postgraduate,University Exam,Copying from neighbors,No,2024-11-10
+f7674a59-85fc-43be-8ad7-567db7d6e833,Michelle Campos,15,Female,Ibadan,High School,NECO,Impersonation,No,2025-01-15
+c63401e9-daad-491e-b32c-7bf488fbad77,Tara Young,21,Male,Kano,High School,WAEC,Impersonation,Yes,2024-12-10
+ac408c01-877b-4d2a-b0a9-bb96dbc81a21,Margaret Harrington,16,Other,Enugu,Postgraduate,NECO,Copying from neighbors,No,2024-09-22
+46a660c3-f7e7-4691-8e33-452f0b7471fc,Jason Jimenez,19,Male,Kano,Postgraduate,Mock Exam,Falsification of results,Yes,2024-10-19
+31ec9211-fd72-43d6-9d4d-a4287e9dd2d7,Marie Woods,29,Male,Kaduna,Undergraduate,NECO,Smuggling of unauthorized materials,No,2023-10-21
+14d653c4-248e-4426-b52e-bc78e06fc7db,Lisa Leblanc,29,Male,Port Harcourt,Undergraduate,University Exam,Falsification of results,Yes,2024-07-10
+e2e04163-1e1d-464b-84e4-7b13b936029e,Michael Ortiz,26,Other,Benin,Undergraduate,JAMB,Falsification of results,No,2023-09-09
+e27acdac-13e6-4986-9cd6-1dbbfc94da5e,Joseph Hawkins,28,Male,Port Harcourt,Postgraduate,NECO,Falsification of results,No,2025-02-14
+63242761-7a54-475e-bad5-4eb87e7618c4,Sara Davis,16,Other,Benin,Undergraduate,Mock Exam,Cheating with electronic devices,Yes,2023-12-04
+59caead9-1572-4629-931c-d1db5ca88bea,Christopher Hernandez,24,Male,Kano,Undergraduate,University Exam,Copying from neighbors,Yes,2025-01-08
+a4399c1d-2fdc-42e6-9593-2b0051acc63a,Derrick Thomas,28,Male,Port Harcourt,Undergraduate,JAMB,Cheating with electronic devices,No,2025-01-26
+8690357d-6c3e-4656-9c33-ddcd4021670f,Shannon Ingram,16,Female,Enugu,High School,University Exam,Cheating with electronic devices,No,2024-12-04
+b028a846-7f14-4af1-a9f1-69de92e97897,Cynthia King,22,Male,Enugu,High School,JAMB,Falsification of results,Yes,2025-07-09
+6f6d592d-891c-40f4-bfd0-a8d776d8b176,Tammy Chavez,19,Male,Ibadan,Undergraduate,NECO,Falsification of results,No,2025-04-24
+62156fb6-e391-4a60-9064-4257ccd35e09,Meghan Graham,29,Other,Lagos,High School,WAEC,Impersonation,Yes,2025-05-01
+1ad1aaa9-c9f7-4b22-9d60-8b0a5a8a01b1,Amber Jennings,19,Other,Kaduna,High School,JAMB,Collusion with other candidates,No,2023-11-26
+5627cff0-a20b-44d9-90c2-22966cf7f395,Sherri Farley,18,Male,Port Harcourt,Undergraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2025-05-05
+35c118ac-2785-4dfd-b2d8-42c64c549cb8,Brianna Cisneros,18,Female,Lagos,Postgraduate,Mock Exam,Copying from neighbors,Yes,2023-11-19
+eff6ea04-93dc-4200-8ca9-cd8145128a39,Richard Mack,19,Female,Kaduna,High School,Mock Exam,Impersonation,Yes,2024-10-09
+262fefc6-5f14-4f98-977b-14a388b5de6f,Austin Sellers,28,Male,Abuja,Postgraduate,JAMB,Cheating with electronic devices,Yes,2024-10-01
+30aefcde-a00f-47f1-bc91-32c4f5baf003,Adrian Walker,27,Female,Lagos,Postgraduate,University Exam,Impersonation,No,2023-12-07
+296c8bdf-7145-40c5-9a30-69837fb2ff5b,Justin Hale,15,Female,Abuja,Undergraduate,NECO,Use of external assistance,Yes,2024-04-19
+e5e9b7ec-52ee-468b-a008-fcb416d6ad83,Margaret Morgan,25,Male,Lagos,Undergraduate,Mock Exam,Impersonation,Yes,2025-06-15
+37c685cd-814c-4a0a-a961-d410ae774043,Denise Cooper,29,Other,Benin,Postgraduate,NECO,Falsification of results,Yes,2024-08-01
+69e500aa-af5c-4f2b-b1b4-dc80a9527576,Jacqueline Jones,17,Other,Benin,High School,JAMB,Collusion with other candidates,Yes,2025-01-30
+e0e8b552-deb4-4814-b886-51702ddc4244,Robert Harris,21,Male,Enugu,Undergraduate,Mock Exam,Smuggling of unauthorized materials,No,2024-03-20
+24547eee-a80e-46d1-a71a-5034d20e7292,Steven Fowler,23,Male,Port Harcourt,Undergraduate,JAMB,Falsification of results,Yes,2024-08-30
+16ee6e3a-4634-4f9d-9c97-90ac9799ae14,Kyle Smith,25,Female,Abuja,Undergraduate,University Exam,Smuggling of unauthorized materials,No,2023-09-28
+0886f32b-efc9-44fe-8d05-c6b917b68154,Heather Greer,27,Female,Kano,Undergraduate,University Exam,Impersonation,No,2024-01-10
+2cfd905e-12af-40b5-98e2-9977b1a10bc1,Ronald Mcdonald,17,Other,Kaduna,High School,University Exam,Copying from neighbors,Yes,2025-05-04
+33f9be98-b3b7-4f2f-828e-97e9f7a9c040,Richard Robinson,24,Female,Abuja,High School,JAMB,Use of external assistance,No,2024-01-21
+6e88014f-411c-4e4e-b9eb-9892d5e71d21,Glenda Frederick,24,Female,Kaduna,High School,University Exam,Impersonation,No,2024-06-24
+022eba51-4f80-49ae-837b-a0fea6c582e5,Paul Ellis,16,Other,Enugu,Postgraduate,University Exam,Impersonation,Yes,2023-11-13
+48d76689-3702-4bbf-8dd6-b75f769ab08f,Adam Keller,17,Other,Kaduna,Undergraduate,Mock Exam,Falsification of results,Yes,2025-02-08
+d6976efe-10f5-4539-9452-34e107df21a8,Christopher Lewis,15,Male,Benin,High School,NECO,Cheating with electronic devices,Yes,2023-09-30
+3e3e7079-875c-4c00-9879-4a69bee33625,Jonathan Thornton,26,Female,Kaduna,Postgraduate,WAEC,Copying from neighbors,Yes,2024-04-17
+13fa869a-d732-42a5-b5c3-cf9e6a01d8c8,John Smith,29,Female,Enugu,Undergraduate,WAEC,Copying from neighbors,Yes,2024-07-15
+f1257ea3-46b2-4a98-b93b-421a2349919f,Kayla Nichols,26,Female,Enugu,Postgraduate,JAMB,Collusion with other candidates,Yes,2025-01-06
+1c3deb57-7914-4c86-9c1f-a8121ce8e869,Darren Smith,15,Other,Kano,Undergraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2024-11-11
+2d4385ea-4707-44b5-b423-94cab58ce049,David Smith,23,Female,Benin,High School,Mock Exam,Impersonation,No,2025-06-12
+8939d45e-a196-4010-b89d-f513f5b72cab,Diana Pham,21,Male,Kano,High School,University Exam,Collusion with other candidates,No,2024-12-29
+bec4dbee-dbdb-4aee-b2ee-87585e4efd56,Terry Taylor,17,Other,Enugu,Postgraduate,JAMB,Use of external assistance,Yes,2024-02-08
+4fbbacb0-dabf-4813-ad91-087515b58734,Latasha Sanchez,24,Female,Kano,Postgraduate,NECO,Falsification of results,No,2024-09-25
+0e6398e3-3b2f-413a-8814-5adccdfa0db6,John Bowman,22,Male,Port Harcourt,High School,NECO,Falsification of results,No,2024-06-29
+9ed9e17b-1f4b-4bf1-960f-0c4c900813ce,Angela Hahn,15,Female,Enugu,Undergraduate,Mock Exam,Collusion with other candidates,Yes,2023-12-30
+a6249c5a-221b-4f24-9e01-e9ac3b25cf31,Daniel Anderson,17,Female,Kaduna,Postgraduate,University Exam,Copying from neighbors,No,2024-05-29
+92b1740e-eab1-4dec-9a39-f824aa9b6e1b,Cynthia Oliver,28,Other,Abuja,High School,JAMB,Use of external assistance,Yes,2024-02-23
+0be23e7c-7870-4fde-90c6-0d8f1f0f3b40,Anthony Mcpherson,29,Female,Enugu,High School,Mock Exam,Use of external assistance,Yes,2023-10-16
+d03a329a-c069-4c86-867b-5eccc2a130a3,Jonathan Henderson,19,Female,Lagos,High School,Mock Exam,Collusion with other candidates,No,2023-09-20
+895abc5f-e968-4355-bb2c-5fdef66a1e8b,Elizabeth Dean,20,Male,Enugu,Postgraduate,NECO,Impersonation,No,2024-10-16
+a15f5362-d864-469a-9e8b-ff9bbc9e2f5b,Nancy Bean,17,Female,Port Harcourt,Postgraduate,Mock Exam,Impersonation,Yes,2024-02-16
+4e6ecea5-d378-46b6-9c62-51b2a575d1bf,Mrs. Cynthia Jackson,24,Other,Abuja,Postgraduate,NECO,Copying from neighbors,Yes,2024-04-16
+06f668a8-ac09-4f2d-92c5-6ba737d1002a,Amanda Anderson,20,Other,Enugu,Postgraduate,WAEC,Falsification of results,Yes,2024-08-15
+d2e8cc79-caca-4588-b2a1-90c583bf46dc,Stephanie Sawyer,17,Male,Ibadan,Postgraduate,NECO,Falsification of results,No,2025-02-28
+4dcc1f4a-9750-4550-9e41-fd2a01034b61,Katie Phillips,15,Female,Ibadan,Postgraduate,JAMB,Smuggling of unauthorized materials,Yes,2025-06-22
+7336d2c7-3de8-42d4-8ff9-380d3f87410b,Erin Lambert,27,Female,Benin,High School,WAEC,Collusion with other candidates,No,2024-03-09
+b9ca665e-7147-4333-8ffd-ae1c9e3a4db7,Eric Williams,28,Female,Benin,High School,JAMB,Copying from neighbors,Yes,2025-06-30
+7c0d0558-f093-4a58-95f3-41b6f735044b,Julie Medina,25,Other,Enugu,Postgraduate,JAMB,Smuggling of unauthorized materials,Yes,2023-11-21
+8f3ebf0b-c235-4050-a726-ed43419d08d7,Sean Davis,26,Other,Abuja,Undergraduate,NECO,Smuggling of unauthorized materials,Yes,2023-12-11
+5e6d6920-3083-4dc6-87a5-e8a85dae14f5,Katie Kennedy,23,Female,Port Harcourt,High School,WAEC,Cheating with electronic devices,No,2024-11-26
+c16d9ce0-21ad-4533-9b2d-87d00a9416f0,Allison Joseph,27,Other,Kaduna,High School,NECO,Falsification of results,No,2025-03-26
+35b20eb9-19e7-4f61-87c9-8c31ea00e9c1,Christopher Brown,25,Male,Kano,Undergraduate,Mock Exam,Smuggling of unauthorized materials,No,2024-09-07
+749db2eb-c839-4325-b1fb-73079334b949,Mrs. Kathryn Robinson,24,Female,Lagos,High School,University Exam,Copying from neighbors,No,2024-09-25
+2f4ab05b-1b79-4620-95ce-5e69888c6614,Andrew Koch,22,Male,Enugu,High School,WAEC,Impersonation,No,2023-11-12
+5aa778b2-1650-4e7d-b6eb-e3acb57eea64,Carrie Ball,30,Female,Lagos,High School,University Exam,Collusion with other candidates,No,2024-03-05
+ec3e93b6-5119-4944-98c6-8fdae8c24bf9,William Miranda,26,Female,Enugu,High School,University Exam,Cheating with electronic devices,Yes,2025-07-03
+d8c6839b-a3c4-49cd-9683-e4d39cf624e6,Rodney Schmidt,26,Other,Ibadan,High School,University Exam,Copying from neighbors,No,2025-04-06
+8aaa0538-5a9e-40c8-baae-536fffeb69c7,Timothy Davis,23,Other,Abuja,High School,WAEC,Smuggling of unauthorized materials,No,2025-01-12
+d54e0927-481e-4d96-926f-e915e86aa19c,Karen Stevens,25,Other,Enugu,High School,NECO,Copying from neighbors,No,2024-08-01
+57f7c813-eb80-4c68-8df9-5eb5e455c21c,Sara James,16,Male,Lagos,High School,JAMB,Falsification of results,No,2025-04-29
+6a52c0bd-7bc8-4b85-9f7f-2613be7ad8e9,Dr. Jose Cooley,29,Male,Kano,Undergraduate,Mock Exam,Impersonation,Yes,2024-06-04
+b7efa130-e81a-47ad-88bd-ecca8adf4d72,Heather Camacho,27,Other,Ibadan,Postgraduate,JAMB,Copying from neighbors,No,2025-02-09
+558528ef-b171-4cb5-b5e1-783be6fc6b6a,Frederick Payne,24,Female,Lagos,Undergraduate,JAMB,Use of external assistance,Yes,2025-02-25
+2901c32f-b4ca-4fda-b2b1-15523748b225,Steven Lozano,28,Other,Ibadan,Postgraduate,WAEC,Copying from neighbors,No,2025-05-28
+2c63e85d-e5ad-47ad-bdc6-b93a3b038b07,Logan Taylor,23,Other,Port Harcourt,Postgraduate,WAEC,Copying from neighbors,No,2024-02-26
+9669a40d-89c3-42a7-9854-984d7ca84233,Roberto Grimes,20,Other,Kaduna,High School,NECO,Cheating with electronic devices,Yes,2024-05-12
+d02655a3-e675-4d7d-a624-85f0e0ace4ed,William Kirby,21,Male,Benin,Undergraduate,University Exam,Collusion with other candidates,No,2023-12-15
+f3c74f49-4335-48a4-84d3-98d6af92b686,Taylor Roberts,21,Female,Benin,Postgraduate,WAEC,Use of external assistance,Yes,2024-09-25
+182cea7f-4a57-472b-ac4e-06cba6d05650,Kelsey Mora,21,Other,Enugu,Postgraduate,University Exam,Copying from neighbors,No,2024-02-13
+b8826a04-e08f-42fb-a18e-75a7059d6304,Tina Estrada,25,Male,Benin,Postgraduate,JAMB,Copying from neighbors,No,2024-02-29
+3c9bcef6-d434-4008-ab92-3e281229ce5e,Robert Davis,23,Other,Benin,High School,NECO,Impersonation,No,2023-11-08
+f6b728a1-1083-4b85-9f32-c79d95bd7752,Jessica Garcia,22,Female,Ibadan,Postgraduate,NECO,Use of external assistance,No,2025-07-20
+3f4333d5-fceb-4d94-a1fa-5d95b89f7f87,Stephanie Johnson,25,Female,Enugu,Postgraduate,JAMB,Impersonation,Yes,2024-05-16
+2e44ca1f-b7c2-4676-abe3-901cc846ee02,Thomas Hodge,27,Female,Enugu,High School,JAMB,Cheating with electronic devices,No,2023-10-28
+ccd13e97-1f97-4295-a8d5-7e6ef997ff81,Andrea Clark,17,Female,Benin,Postgraduate,JAMB,Use of external assistance,No,2025-04-22
+0dd3dd73-9664-423a-928a-4378f7b66286,Anthony Lewis,21,Male,Ibadan,Postgraduate,JAMB,Collusion with other candidates,Yes,2025-07-18
+70145b27-3492-4d37-89c8-218edf85ea2e,Larry Robinson,22,Male,Lagos,Postgraduate,Mock Exam,Collusion with other candidates,Yes,2024-04-21
+b9411de5-5050-43ca-b577-2e3bcb7d0916,Amanda Jackson,16,Male,Kaduna,Undergraduate,University Exam,Cheating with electronic devices,Yes,2023-09-09
+8991c1d3-f9ae-468a-95e8-dbeb34cc722e,Emily Whitaker,15,Other,Kano,Undergraduate,University Exam,Smuggling of unauthorized materials,Yes,2024-12-08
+e4faf5de-ca11-4342-8053-ab6e35ee2e01,John Martin,24,Female,Ibadan,Postgraduate,WAEC,Falsification of results,Yes,2024-01-09
+30c3eeeb-026c-4fc7-adea-38682dddfd2d,Jordan Crawford,22,Other,Lagos,High School,University Exam,Falsification of results,Yes,2025-08-06
+ebe0e226-845c-4391-86a4-18259a4c4233,Heather Moore,16,Female,Benin,High School,JAMB,Cheating with electronic devices,Yes,2023-11-04
+d0a9855d-c078-42e3-a98b-6eb97f7971d6,Reginald Brown,24,Other,Abuja,Undergraduate,JAMB,Smuggling of unauthorized materials,No,2024-05-28
+062aa699-13e0-4729-bb8d-f9b41c9627bc,Matthew Phillips,19,Other,Benin,Undergraduate,NECO,Falsification of results,Yes,2025-06-02
+d8e39283-a9d2-417d-b0ca-eeeb0ea2516c,Mary White,25,Male,Benin,Postgraduate,JAMB,Use of external assistance,Yes,2024-06-27
+7eac0798-b41b-472f-bf92-dfb60143ee0d,Kayla Fuentes,15,Other,Enugu,Undergraduate,Mock Exam,Use of external assistance,Yes,2023-11-15
+c06a1f5a-2da3-4de1-8cdd-4e32de0a7052,Hannah Cook,20,Other,Kaduna,Undergraduate,Mock Exam,Impersonation,Yes,2023-08-10
+d0d3799f-d019-4e1a-83b7-6dbfd7615035,Francisco Webb,27,Other,Abuja,High School,NECO,Smuggling of unauthorized materials,No,2024-12-03
+7b3fd9fa-c992-44d3-8591-c1aff063e510,Robert Barber,22,Male,Ibadan,Undergraduate,NECO,Smuggling of unauthorized materials,No,2023-11-10
+2dde670d-554e-4b9d-9ef1-dbbcac512539,William Pierce,25,Female,Lagos,Undergraduate,JAMB,Use of external assistance,Yes,2025-04-24
+3d11ea91-a17e-445b-b019-8c86c9a21ba1,Scott Cardenas,16,Other,Abuja,Undergraduate,JAMB,Collusion with other candidates,No,2024-03-09
+35e45adb-dcf6-4f4f-b2c8-ec94bc34a2ef,Dave Brooks,24,Other,Abuja,Postgraduate,JAMB,Impersonation,Yes,2025-06-09
+6d94fe01-4262-4fe8-a9f1-538aa5817a75,Joel Nelson,22,Male,Benin,High School,University Exam,Use of external assistance,No,2023-12-21
+97c5adfe-75b3-4542-b636-5a3bdf159803,Paige Ellis,28,Other,Benin,Postgraduate,NECO,Falsification of results,Yes,2024-04-13
+83579f3d-c913-4521-bb72-30e372da2b09,Gregory Bates,17,Other,Benin,Postgraduate,JAMB,Cheating with electronic devices,Yes,2023-10-08
+392b5e05-cbe3-476b-b9be-89ab2efa594d,Lisa Tran,16,Other,Port Harcourt,Postgraduate,Mock Exam,Collusion with other candidates,Yes,2025-05-15
+87675bad-1329-4fd6-ad00-ee87f5b88e82,Susan Nichols,25,Other,Benin,High School,NECO,Use of external assistance,No,2024-03-04
+28067f36-0d99-47b6-b618-8e9da66b1af1,Karen Smith,17,Other,Benin,High School,University Exam,Collusion with other candidates,No,2025-07-23
+d0dcb7b2-fe11-4094-a055-24f7993d94e3,Michael Miller,29,Other,Lagos,Postgraduate,University Exam,Use of external assistance,No,2025-05-09
+7216dbea-ba2b-475b-a216-8905c9831887,Howard Johnston,15,Female,Ibadan,High School,NECO,Copying from neighbors,Yes,2024-12-09
+348ac505-08a5-45e9-aa6b-4a4bb2dc9738,Deborah Trujillo,16,Female,Enugu,Postgraduate,WAEC,Copying from neighbors,Yes,2025-05-04
+2d03d680-d86f-43fb-827c-db8b0bba4121,Michael Murphy,17,Female,Lagos,Undergraduate,University Exam,Collusion with other candidates,Yes,2025-01-03
+f764032b-98c8-4818-83a9-40136d4042c3,Nichole West,28,Female,Kaduna,Undergraduate,University Exam,Smuggling of unauthorized materials,Yes,2024-05-02
+17cc5db6-1044-45ac-b7d5-d13992f3890a,Pamela Aguilar,19,Other,Enugu,High School,NECO,Copying from neighbors,No,2023-09-05
+06e4aaf2-3a01-4436-be43-a43a515034be,Laura Smith,19,Other,Port Harcourt,High School,WAEC,Impersonation,No,2023-09-26
+27bca2b9-3490-4c38-9ead-f9213d61033e,Pamela Nelson,28,Other,Kaduna,High School,NECO,Smuggling of unauthorized materials,No,2024-11-03
+4930d401-043f-4791-a8e5-b197cba9610c,Maria West,19,Female,Port Harcourt,Postgraduate,WAEC,Cheating with electronic devices,No,2025-04-06
+51f50de5-0b2e-4dd3-bd6c-e315fcd27405,Johnny Higgins,15,Male,Port Harcourt,High School,WAEC,Copying from neighbors,Yes,2025-07-20
+1a3513b2-32f7-4781-9cb6-1c8c6e3661f6,Margaret Chavez,29,Other,Lagos,High School,WAEC,Smuggling of unauthorized materials,No,2024-05-06
+c6d3d4eb-ae6f-4191-bc09-24e8fb843a63,Lisa Bailey,22,Other,Port Harcourt,High School,NECO,Copying from neighbors,No,2024-12-28
+3a619fe3-933e-4b10-af5e-0dde4095d2a9,Debbie Henry,22,Other,Enugu,Postgraduate,Mock Exam,Falsification of results,No,2024-11-05
+86965aaa-d1ea-4a4b-b10f-28d0fcf4d044,Miranda Stanley,22,Female,Kano,Postgraduate,Mock Exam,Collusion with other candidates,No,2023-09-26
+1b662cfc-949a-4abe-9d82-6169f04c9f07,Nathan Anderson,24,Female,Lagos,Postgraduate,Mock Exam,Use of external assistance,Yes,2024-04-24
+46deb50f-0919-4bdb-800b-6dd68b0e87b6,Matthew Gomez,28,Other,Benin,High School,JAMB,Use of external assistance,No,2025-01-06
+cb097957-d742-4c79-8ab5-0f1fa49d7e4b,Marc Rivera,25,Other,Kaduna,Undergraduate,NECO,Impersonation,No,2025-01-20
+453ce682-7b13-415a-a2dc-41f284f5a5e7,Raymond Ross,20,Other,Benin,High School,NECO,Impersonation,Yes,2024-05-10
+429b5744-41f1-45e3-9410-9951b02637e4,Holly Diaz,29,Male,Kaduna,Undergraduate,Mock Exam,Copying from neighbors,Yes,2025-01-31
+582f94db-11d0-4c1b-bf45-1e43e6ee02a8,Cindy Jordan,27,Male,Ibadan,High School,JAMB,Use of external assistance,Yes,2024-01-29
+b43f6f6f-a284-4eb8-a5c4-d65852738265,Michael Stephens,29,Female,Abuja,Postgraduate,NECO,Cheating with electronic devices,No,2024-06-09
+eb98f139-a9ec-4aed-837b-2e5f7b5514bf,Jasmine Marshall,27,Other,Lagos,High School,NECO,Falsification of results,Yes,2024-11-06
+7963576d-088e-4969-bb91-bdf04d673995,Randall Sharp,30,Male,Enugu,Undergraduate,WAEC,Collusion with other candidates,Yes,2025-02-03
+0036984f-8378-4bb2-a38e-e5c6f6e70205,Kevin Brown,18,Other,Benin,High School,Mock Exam,Use of external assistance,Yes,2025-04-11
+d90a849a-a189-4077-bbe9-19596de76127,Lindsay Hall,27,Male,Enugu,Undergraduate,University Exam,Smuggling of unauthorized materials,No,2024-12-27
+193b67bd-b92b-46ca-87b2-9f18fc5b62e7,Charles Thornton,24,Female,Enugu,Postgraduate,University Exam,Smuggling of unauthorized materials,Yes,2024-03-03
+f8fc5760-9a15-4b3d-bf25-9d81cb7df780,Mary Kelly,30,Female,Port Harcourt,Undergraduate,JAMB,Smuggling of unauthorized materials,Yes,2024-02-27
+b0b79ffb-8803-4edf-9682-4950ddd6c20d,Robert Brown,22,Other,Kano,High School,JAMB,Copying from neighbors,No,2024-08-28
+aa4d3b1c-5d47-4733-99b9-841cc0bcf222,Adrian Gray,24,Male,Port Harcourt,Undergraduate,NECO,Smuggling of unauthorized materials,Yes,2023-11-03
+36dab7a0-03f4-4d07-bf9f-591677eb3ca4,Donald Long,30,Other,Enugu,Undergraduate,University Exam,Use of external assistance,No,2024-01-31
+82615cb9-1037-4cd4-b673-30994190a228,Joanne Ware,29,Male,Enugu,High School,NECO,Use of external assistance,No,2023-09-11
+40533a1f-d99d-4946-bc35-006296912986,Karen Rodriguez,20,Other,Lagos,Postgraduate,WAEC,Falsification of results,Yes,2024-02-25
+28375b4f-1b6f-4a35-a5c9-a511259611ee,Danielle Martin,16,Male,Kaduna,High School,NECO,Cheating with electronic devices,Yes,2024-06-07
+7e53c641-28a2-41e6-afa8-6b2718329c33,Phyllis Parker,15,Male,Benin,Undergraduate,WAEC,Copying from neighbors,No,2024-08-03
+8b2e61d9-e5ff-4fc0-9297-41d05e144b6e,Linda Jones,30,Male,Lagos,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2024-06-11
+eb644e50-49d7-428b-a937-b968f7cfbf00,Peter Campbell,15,Other,Ibadan,Postgraduate,JAMB,Cheating with electronic devices,No,2024-01-22
+6f65b1d9-e74d-4a2b-979b-244d1bf5a24c,Ashley Ware MD,20,Male,Abuja,Postgraduate,NECO,Collusion with other candidates,Yes,2024-09-14
+0b742547-606c-4b0c-846f-d442b5e777d4,John Casey,23,Female,Ibadan,Undergraduate,WAEC,Impersonation,No,2023-12-13
+81b23add-d98e-4606-b8bf-5e0737aa52e9,James Harrison,29,Other,Port Harcourt,Postgraduate,NECO,Impersonation,Yes,2024-12-22
+3ee14fa7-a395-4e04-9539-e095ed228f7d,Brittany Leon,16,Male,Kaduna,Undergraduate,University Exam,Copying from neighbors,No,2024-10-02
+c097393d-781d-45e3-aa43-3edc9faa693a,Mark White,16,Other,Lagos,Postgraduate,NECO,Cheating with electronic devices,No,2024-04-09
+40310aa9-3197-4d62-b9a2-69ea4b28f6de,April Vaughan,28,Other,Enugu,Postgraduate,WAEC,Copying from neighbors,Yes,2023-09-04
+bc9c8f97-b5f2-4316-98d0-326df718a38d,Tracy Thornton,22,Male,Benin,Undergraduate,WAEC,Cheating with electronic devices,No,2023-11-25
+f8cad4d0-ed75-439e-8eae-6827078d501c,Marissa Lee,16,Male,Enugu,High School,NECO,Copying from neighbors,Yes,2023-11-05
+f7385c10-3392-43c9-8d10-a86d4737302b,Kathleen Blake,27,Male,Ibadan,High School,Mock Exam,Collusion with other candidates,No,2024-01-30
+3897cb4a-df4a-4c55-b456-988071528f31,Sandra Shaw,25,Female,Kano,Postgraduate,WAEC,Copying from neighbors,No,2025-07-02
+9a4c8c07-4716-43a5-8ccb-fc84a575150d,Jessica Harris,16,Male,Kaduna,High School,WAEC,Impersonation,No,2023-10-17
+fd86b44d-0b27-422c-b830-a29e5d2eb853,Linda Howard,25,Male,Ibadan,Undergraduate,University Exam,Collusion with other candidates,No,2025-02-03
+11b16005-7438-4665-80f5-ab7b159b94b7,Charles Fernandez,27,Female,Kano,Postgraduate,Mock Exam,Use of external assistance,No,2023-09-17
+fcb6df4d-1a1d-4a04-814f-51b8d7b1df2c,Megan Williams,17,Other,Ibadan,High School,WAEC,Cheating with electronic devices,No,2024-08-10
+227d575e-2ac6-4e2c-af51-0f031e7baf4c,Benjamin Miller,19,Female,Kano,Postgraduate,University Exam,Impersonation,No,2024-11-30
+d0a2629e-bb68-456a-b496-06f4fa5e9367,John Peterson,18,Male,Lagos,Undergraduate,University Exam,Impersonation,No,2025-07-07
+ac789dcc-6a0b-4c80-b800-0329f155a103,Alison Cox,18,Male,Abuja,High School,University Exam,Smuggling of unauthorized materials,No,2024-08-21
+d529e4cc-ce45-4008-8809-498ccedbb9bb,Kenneth Davis,18,Male,Abuja,Undergraduate,Mock Exam,Cheating with electronic devices,No,2024-03-29
+044bfaac-4351-48ec-82e1-b6cfc427fe17,Carl Summers,27,Male,Ibadan,Undergraduate,University Exam,Falsification of results,Yes,2023-09-21
+99284cbd-4557-4f3f-bb24-7a2f20d45fdf,Joseph Hampton,22,Other,Kano,Postgraduate,University Exam,Collusion with other candidates,Yes,2024-04-08
+5d32d045-5b22-4fb5-86d8-d2b8af18c1c4,Bradley Lopez,23,Female,Ibadan,Undergraduate,NECO,Cheating with electronic devices,Yes,2024-01-12
+e1377d6e-9dde-4f90-8522-49a92f2f2f04,Melvin Hansen,28,Female,Kaduna,Undergraduate,University Exam,Falsification of results,Yes,2025-05-17
+8b1e456d-fc68-46d4-8b10-7fb25fd3a9d2,Peter Prince,26,Female,Port Harcourt,Postgraduate,University Exam,Copying from neighbors,Yes,2023-12-13
+fe1ec29f-d670-4aa2-8875-7071360972d6,Kendra Reynolds,29,Male,Kano,Undergraduate,WAEC,Smuggling of unauthorized materials,No,2024-02-27
+2b993295-49c7-43f9-8b05-a6496f0c1f27,Timothy Schneider,27,Female,Benin,Undergraduate,University Exam,Falsification of results,Yes,2024-10-30
+59eec780-c3b6-42bf-bf8d-52d2ae6cae21,Jonathan Sandoval,24,Female,Port Harcourt,Undergraduate,JAMB,Collusion with other candidates,No,2025-06-04
+92eb7d8c-fb67-4fc0-bc2b-eef9cdf86b5e,Erin Benson,25,Female,Benin,Postgraduate,NECO,Impersonation,No,2025-06-07
+e4de2f74-0887-4164-93bd-c6a6ad2aea44,Adam Allen,23,Female,Enugu,High School,Mock Exam,Collusion with other candidates,Yes,2025-03-06
+86cee23e-9693-4864-a9e1-998ce6cb389e,Joshua Smith,15,Other,Benin,Postgraduate,NECO,Smuggling of unauthorized materials,No,2024-12-11
+a42f144a-5276-405c-a45f-3a5f56dc624c,Donald Marks,17,Female,Benin,High School,JAMB,Collusion with other candidates,No,2024-06-02
+24be6b36-41f7-4add-b39d-73069f4eea0e,Melissa Montgomery,19,Other,Kaduna,Undergraduate,WAEC,Smuggling of unauthorized materials,No,2024-11-16
+a5aa93d8-76a0-47e6-91a1-2f567e71f705,Audrey Martin,27,Other,Kaduna,Postgraduate,WAEC,Falsification of results,No,2024-09-01
+0568060b-029b-4afc-94f4-44e2e730ab13,Michelle Andrade,17,Male,Port Harcourt,Postgraduate,JAMB,Collusion with other candidates,Yes,2025-02-15
+abe6c44a-f41f-4955-bae3-5a8440b0bee0,Jessica Barnes,27,Female,Kaduna,High School,WAEC,Cheating with electronic devices,No,2024-02-16
+77977360-0047-4a71-8812-aa50240f9c1a,Claudia York,22,Other,Port Harcourt,Undergraduate,JAMB,Smuggling of unauthorized materials,No,2024-12-14
+8dcbebf1-d931-4d23-8bbe-be57f19da041,Brandon Warner,19,Female,Lagos,Undergraduate,WAEC,Impersonation,No,2024-12-07
+3b7db016-0d7b-4d6f-a19f-053f0fffae10,Andrew Cunningham,17,Male,Kano,Undergraduate,JAMB,Impersonation,No,2024-02-04
+94b22466-9846-43af-b1e5-7114ca40aa79,Joshua Hughes,21,Other,Benin,Undergraduate,University Exam,Cheating with electronic devices,No,2024-08-11
+8717f4f2-dff3-4eea-9bb0-11af52209e48,Mike Oconnor,29,Female,Abuja,Undergraduate,WAEC,Falsification of results,Yes,2023-09-16
+64332377-89f0-4afb-85ef-10555ecd6dc7,Mrs. Whitney Garcia DDS,15,Female,Abuja,Postgraduate,NECO,Use of external assistance,Yes,2024-12-15
+8711963d-9711-4bae-97b2-133ae50cad4f,Miss Tanya Walker,20,Other,Kano,Undergraduate,Mock Exam,Smuggling of unauthorized materials,No,2023-11-02
+c07a3731-a8aa-4c90-915c-0c8194f65ef5,Deborah Colon,22,Female,Kano,High School,University Exam,Smuggling of unauthorized materials,Yes,2025-03-26
+53ca8bc3-816b-4e81-9168-c7777265d76c,David Pollard,21,Female,Kaduna,Undergraduate,WAEC,Use of external assistance,Yes,2024-09-04
+3f5a8910-e9bf-4d9f-82d1-a45b59bd50fa,Hannah Miller,21,Female,Abuja,Postgraduate,WAEC,Falsification of results,Yes,2025-02-21
+472578a8-8c1f-45b6-a852-249e037b35b6,Richard Ortiz,26,Female,Port Harcourt,Undergraduate,WAEC,Impersonation,No,2025-01-30
+12995dd4-c85c-4980-92a5-24fc7a473f35,Shannon White,25,Other,Kaduna,Postgraduate,University Exam,Copying from neighbors,Yes,2024-06-14
+635d0c1f-2c23-49ca-9d16-8f51b80f04ae,Susan Randolph,26,Female,Benin,Postgraduate,NECO,Falsification of results,No,2023-09-06
+e0ca7dc8-450e-4381-97f3-69094fb71c54,Amanda Macdonald,17,Other,Kano,Undergraduate,WAEC,Collusion with other candidates,No,2024-08-16
+703959b7-818d-4b63-be9c-de0075c6c54b,Michelle Guerrero,18,Male,Enugu,Postgraduate,NECO,Copying from neighbors,No,2024-08-11
+23210f69-4559-43a8-826e-217b61681072,Tabitha Guerra,28,Other,Kano,Postgraduate,University Exam,Smuggling of unauthorized materials,Yes,2023-12-20
+6b1be70e-b8bb-437e-8ec5-029ed00261a6,Julia Roy,30,Other,Kano,Postgraduate,NECO,Smuggling of unauthorized materials,No,2023-08-17
+5cbc5bb2-5e94-4b07-b90e-a3f59bf2f6a8,Jason Gibbs,19,Male,Enugu,Undergraduate,Mock Exam,Cheating with electronic devices,No,2024-10-02
+e051b367-5ca6-4bd6-9719-4edb6f617d9e,David Hawkins,15,Female,Kano,High School,University Exam,Copying from neighbors,No,2024-08-21
+d0a274cd-2444-4d6a-b0a9-77033116149f,Amy Davis,28,Other,Benin,Undergraduate,University Exam,Smuggling of unauthorized materials,Yes,2025-03-22
+53fab901-9829-415f-b7f0-ae860bc5dfe3,Jodi Morgan,17,Other,Lagos,High School,JAMB,Cheating with electronic devices,No,2024-07-19
+dc146e8b-5866-4301-9185-c8d89bca6134,Jeffrey Brock,22,Other,Ibadan,High School,University Exam,Copying from neighbors,No,2024-03-22
+e0ff48bc-194c-4b16-98a3-ff84772b97de,Elizabeth Alexander,18,Other,Abuja,Undergraduate,Mock Exam,Falsification of results,No,2024-08-23
+61add959-1a3f-4cb0-9e23-0da81f1b9b64,Oscar Fleming,16,Other,Benin,Postgraduate,NECO,Smuggling of unauthorized materials,Yes,2025-03-24
+9992ec5a-4fde-4aa1-8493-a184b258df84,Carlos Lee,22,Female,Lagos,Undergraduate,JAMB,Impersonation,Yes,2023-09-26
+72fa0ea6-64c1-4d61-a359-66d959da8297,Brett Schwartz,29,Male,Port Harcourt,High School,Mock Exam,Use of external assistance,No,2024-09-25
+aaeaac19-8213-4a7e-99f0-9daee8cf91c1,Devon Gomez,28,Male,Kano,High School,NECO,Falsification of results,Yes,2024-12-30
+346cf565-153b-4fae-b34b-d357e20c1402,Caroline Haynes,26,Other,Ibadan,Postgraduate,Mock Exam,Collusion with other candidates,No,2024-10-03
+5a6f8c44-addf-486d-8e40-fbb6b875c22d,Brian Tucker,24,Female,Ibadan,Postgraduate,WAEC,Collusion with other candidates,No,2024-11-17
+3e7342eb-ede0-4632-808e-80a12c9b5b45,Michael Flores DDS,16,Female,Kano,Postgraduate,NECO,Collusion with other candidates,Yes,2024-03-27
+ed5bb28f-3eea-4791-a951-136ef731f5eb,Alfred Murphy,25,Male,Kaduna,Undergraduate,NECO,Copying from neighbors,No,2024-08-04
+1a8f873c-01bd-4849-987e-92600915a8b3,Jacqueline Morales,28,Female,Benin,High School,WAEC,Smuggling of unauthorized materials,No,2025-01-23
+2ecf9c37-f824-45e9-815f-00c4c6e33f13,Brandon Charles,26,Female,Benin,Undergraduate,Mock Exam,Cheating with electronic devices,Yes,2024-01-01
+f99b34d9-1bd6-4582-8f74-d7fd1f69118c,Jimmy Brown,29,Other,Enugu,High School,Mock Exam,Smuggling of unauthorized materials,Yes,2025-06-24
+95abe0eb-4e19-4070-b50e-b39a6f238a80,Michael Walker,28,Male,Benin,Undergraduate,JAMB,Falsification of results,No,2025-05-04
+dbd9abde-3a21-4cb0-afbb-44541c958757,Brandon Harper,25,Other,Kano,Postgraduate,University Exam,Falsification of results,No,2025-08-01
+f4f40249-4cf9-4ae9-b67c-d5fcb17a5b3c,Timothy Russell,16,Male,Abuja,Postgraduate,University Exam,Cheating with electronic devices,Yes,2024-10-09
+0f380617-2873-4b58-8ef9-49e009305435,April Gilbert,20,Female,Benin,High School,University Exam,Collusion with other candidates,Yes,2025-04-03
+04e3542a-e5ed-42a2-a1af-e22abb137fc2,James Prince,24,Male,Ibadan,High School,JAMB,Impersonation,Yes,2024-10-30
+ba5933a1-e60b-42c7-83b4-d884aba34154,Paul Malone,26,Other,Kano,High School,University Exam,Use of external assistance,No,2024-10-29
+0b16c229-f755-4e2f-8145-a2f946ab98a0,Paul Brown,22,Female,Abuja,Postgraduate,WAEC,Cheating with electronic devices,Yes,2024-09-19
+9be4acb4-0b9f-4062-9ad7-80c823d5bda5,Jennifer Kennedy,30,Male,Kano,Postgraduate,NECO,Copying from neighbors,No,2025-02-05
+40c97055-763e-4c7a-900c-dc4246961b82,Anthony Gardner,15,Male,Enugu,High School,University Exam,Use of external assistance,Yes,2023-08-10
+0f6f40eb-a189-4231-b833-28834b5500f5,David Nguyen,30,Male,Port Harcourt,Undergraduate,WAEC,Use of external assistance,Yes,2024-10-24
+59a3ffdd-716f-4438-93ab-f4d2bb8f0298,Kelly Lamb,18,Female,Enugu,Undergraduate,NECO,Smuggling of unauthorized materials,Yes,2024-02-23
+59417607-707f-4b81-8dc6-56a11f8b18bf,Lance Hernandez,19,Male,Lagos,Postgraduate,NECO,Smuggling of unauthorized materials,No,2024-02-04
+e0f75db6-2300-4b9d-88d6-d57b8da82e98,Sarah Mathews,21,Other,Kano,Undergraduate,Mock Exam,Use of external assistance,No,2024-05-10
+bb4d60a0-694c-4076-a2e8-70552bc8dbcb,Alexa Miller,21,Male,Abuja,High School,WAEC,Copying from neighbors,No,2024-12-11
+990fe286-1912-488f-a89e-a4dac7971009,Martin Hall,26,Female,Enugu,High School,NECO,Impersonation,Yes,2023-12-04
+3ae497fb-0909-4634-90e5-f90936575da1,Sara Scott,22,Other,Ibadan,Postgraduate,WAEC,Falsification of results,No,2025-02-20
+d96d4add-5ed4-4881-9a98-916a5c2824bc,Roberta Hughes,21,Other,Port Harcourt,Postgraduate,University Exam,Impersonation,Yes,2024-05-18
+ea9eb060-21e8-42ba-a1ef-1338651b00ad,Caitlin Nichols,22,Female,Kaduna,High School,NECO,Smuggling of unauthorized materials,Yes,2025-05-13
+fc419cb2-8111-401c-b1aa-10d79a70c46e,Madeline Ortega,15,Female,Enugu,High School,University Exam,Falsification of results,No,2025-03-14
+660ca7e2-2c9d-43b5-9ab5-7caeebb967d6,Keith Crawford,26,Other,Kano,Undergraduate,WAEC,Cheating with electronic devices,Yes,2025-04-08
+2d28b100-197c-4c2e-90c7-3eb144102b64,Rodney Velazquez,15,Female,Port Harcourt,High School,WAEC,Falsification of results,No,2025-03-12
+ee432f4e-8669-434b-bce3-05c934b62929,Andrew Gill,24,Other,Kaduna,Undergraduate,University Exam,Cheating with electronic devices,Yes,2024-10-26
+aa44fec3-692b-43b3-9dfd-c838f982a791,Julie Guerra,23,Male,Ibadan,High School,Mock Exam,Collusion with other candidates,Yes,2025-04-04
+011a93b4-ad14-47f8-8368-9eec171370ec,Mr. Kevin Yang,25,Female,Abuja,Undergraduate,University Exam,Use of external assistance,Yes,2024-06-23
+4c859d54-7caf-4a0d-adfe-734ce1958932,Michael Jones,16,Male,Abuja,Undergraduate,WAEC,Smuggling of unauthorized materials,Yes,2023-09-23
+f3b691e4-eef1-4492-bff8-b96b8a40937a,Peter Tanner,24,Other,Kano,High School,WAEC,Use of external assistance,Yes,2024-08-11
+aa3c081d-1c00-4c99-8e15-5ea3d7fd4692,Scott Schultz,15,Male,Benin,Undergraduate,Mock Exam,Copying from neighbors,No,2024-09-28
+a6e51f70-576b-486a-9248-fa27c981c771,Christopher Goodwin,20,Female,Kano,Postgraduate,JAMB,Use of external assistance,Yes,2023-09-18
+15a6d91d-200d-4013-b151-ca140a9ec6cd,Pamela Ross,15,Female,Kaduna,Undergraduate,Mock Exam,Cheating with electronic devices,No,2025-03-06
+89d8fdd6-735e-4597-9129-26f555e792ad,Trevor Price,17,Female,Benin,Postgraduate,JAMB,Cheating with electronic devices,No,2024-11-27
+572c4c5b-1bbe-43ed-b0d5-d5cc5cf0fd2e,Debra Smith,20,Female,Kano,Undergraduate,WAEC,Copying from neighbors,Yes,2024-10-02
+d83de30e-dda3-4c17-a47b-d6d610a17377,Cindy Parker,22,Other,Lagos,High School,WAEC,Collusion with other candidates,Yes,2025-08-01
+a2594282-fa7f-4ebb-8b74-2a70d00abe98,Michael Hernandez,30,Female,Kaduna,High School,NECO,Falsification of results,Yes,2023-09-30
+9e9f6f20-96b3-49f3-87a1-ce8323a9299e,Patrick Delgado,28,Male,Enugu,High School,University Exam,Use of external assistance,No,2024-11-24
+1ae231cf-f7d1-4e13-b6de-a89f7835387e,Shaun Foster,23,Male,Enugu,High School,Mock Exam,Use of external assistance,Yes,2024-07-02
+58f844ea-5963-426a-8e03-031185162b7f,Kathryn Ward,20,Male,Lagos,Undergraduate,WAEC,Smuggling of unauthorized materials,No,2023-11-27
+d89509d2-eebf-4dd3-ba40-269ee6d7e95e,Natalie Thompson,24,Female,Abuja,Postgraduate,University Exam,Cheating with electronic devices,No,2024-10-20
+0ea188f0-267a-43f4-8bba-cf00aa785fc6,Christopher Ramsey,21,Female,Ibadan,Postgraduate,Mock Exam,Collusion with other candidates,No,2024-11-27
+f99a3925-04f5-4e55-b1a5-9343e6b89f0f,Tabitha Peters,26,Other,Benin,High School,Mock Exam,Falsification of results,Yes,2024-06-01
+0510bd4c-3839-42f2-9eee-88137b244b0f,Charles Richardson,19,Male,Kaduna,High School,NECO,Copying from neighbors,No,2024-12-26
+44d2f421-a023-47f2-9603-130a655c2271,Gabriel Russell,15,Female,Lagos,Postgraduate,University Exam,Falsification of results,No,2023-11-14
+44454c71-745b-46e4-8702-294eb31519fe,Caroline Miller,18,Male,Port Harcourt,Undergraduate,University Exam,Cheating with electronic devices,Yes,2025-07-10
+0472599f-f8a2-4edb-857a-42c7bd341d00,Timothy Romero,23,Male,Lagos,High School,Mock Exam,Smuggling of unauthorized materials,No,2024-02-15
+32bec44c-ce31-4ec7-bb44-8ac2044411b8,Anthony Lucas,29,Other,Abuja,Postgraduate,WAEC,Copying from neighbors,Yes,2024-09-17
+8c43672a-7d62-4762-9c81-d7e2a9e9534c,Courtney Olsen DVM,27,Male,Lagos,Undergraduate,NECO,Collusion with other candidates,No,2025-03-30
+59c67d0c-6c05-442d-a8a7-1339c7352776,Anne Davis,23,Female,Kaduna,Postgraduate,JAMB,Impersonation,No,2024-11-07
+22e07ce9-6a84-4f75-9b98-577195486b3c,Lori Lopez,23,Male,Abuja,High School,NECO,Falsification of results,Yes,2024-09-28
+26b1c162-00e9-4a98-a9e1-a81d405645ad,Jennifer Woods,19,Male,Kano,Undergraduate,University Exam,Impersonation,No,2025-05-06
+53e39e57-32d2-49b2-bb20-5ad130461216,Julie King,18,Other,Enugu,High School,University Exam,Impersonation,No,2024-09-12
+0f891db8-a162-4325-a125-6b86d9e34f2c,Manuel Zhang,23,Male,Abuja,High School,JAMB,Falsification of results,Yes,2024-09-14
+04b24c52-0951-4fb4-a2a2-86ea718cabe0,Tabitha Payne,21,Female,Kano,High School,NECO,Impersonation,No,2024-10-24
+2fed9cda-645b-44bb-a658-f522b202b65e,Megan Day,16,Other,Ibadan,Undergraduate,NECO,Cheating with electronic devices,No,2025-05-24
+b794a95e-4ee0-4f7e-8a40-d18ed496548a,Mark Fleming,29,Other,Port Harcourt,High School,University Exam,Cheating with electronic devices,Yes,2025-06-15
+836d761c-1f91-4782-8e84-e3a6b81caee7,Aaron Shepard,18,Male,Lagos,High School,NECO,Collusion with other candidates,No,2024-12-18
+b637606b-da9c-46e9-a3db-6b7b53f7374c,Jose Cooper,26,Other,Abuja,Postgraduate,Mock Exam,Impersonation,Yes,2023-08-20
+11dae91d-c75f-42b3-80bc-e929712333dc,Terry Dunlap,15,Male,Port Harcourt,Postgraduate,University Exam,Falsification of results,Yes,2024-07-03
+6dd21f58-c9e7-4dea-a4e5-f4903e06afec,Jodi Cain,17,Female,Abuja,High School,University Exam,Cheating with electronic devices,Yes,2024-08-24
+92e91bdc-44b2-497d-b0a1-831ab0db9b49,Lauren Ware,28,Other,Kaduna,Undergraduate,WAEC,Smuggling of unauthorized materials,No,2024-04-26
+12e3eacb-fcd8-4034-8aaa-8850592310b8,Sarah Smith,20,Female,Port Harcourt,High School,JAMB,Impersonation,No,2024-12-27
+2d14bdc0-abb2-478b-a4ff-b12ff43dbdaf,Melissa Franco,19,Male,Port Harcourt,Postgraduate,JAMB,Smuggling of unauthorized materials,No,2024-02-22
+f435c3f8-d321-48f3-9e7e-2064326dec94,James Meyer,30,Male,Abuja,Undergraduate,University Exam,Collusion with other candidates,No,2023-08-24
+541109d3-a3ac-49d2-ab53-f19d0c3b5567,Brian Schroeder,21,Other,Port Harcourt,Postgraduate,Mock Exam,Falsification of results,Yes,2024-05-08
+719c9d54-017f-4cfa-9a37-70638114a820,Christopher Barnes,27,Other,Enugu,Undergraduate,Mock Exam,Falsification of results,No,2024-02-19
+bb0d1ca3-61bf-4bd5-9cc6-7c7798edb166,Clifford Marshall,26,Other,Enugu,Undergraduate,JAMB,Collusion with other candidates,Yes,2025-07-20
+43f42096-ace9-4555-811c-e0f59277b485,Robin Hayes,25,Other,Port Harcourt,High School,JAMB,Cheating with electronic devices,No,2024-12-29
+5d6d114d-b246-43ec-82bb-271efd068471,Barbara Lopez,26,Other,Port Harcourt,High School,WAEC,Collusion with other candidates,Yes,2024-07-31
+f5e62174-034a-4b02-a388-9a182f4a8e0c,Keith Harris,23,Other,Lagos,High School,Mock Exam,Falsification of results,No,2024-02-26
+ed5bd6bb-39a0-4f06-925b-09b807113205,Michael Rivera,26,Male,Kano,High School,Mock Exam,Impersonation,No,2023-10-01
+ea837ef6-0a3d-4bfa-a46f-a25d965ce90f,Kelly Alvarez,15,Other,Enugu,Postgraduate,Mock Exam,Collusion with other candidates,Yes,2023-09-13
+fceb02d2-6f8d-4fcf-bd4c-2e0cee4f03f6,Robert Horton,30,Other,Ibadan,High School,University Exam,Cheating with electronic devices,Yes,2024-11-21
+c7e3a28b-1d3c-4f21-8402-e1280c13be2e,David Gordon,16,Male,Port Harcourt,High School,Mock Exam,Smuggling of unauthorized materials,Yes,2024-07-23
+06a8da47-7058-4459-86b9-b92dabe6eb8a,Thomas Evans,25,Other,Port Harcourt,High School,JAMB,Use of external assistance,Yes,2024-05-23
+0f33b1f3-6843-4443-889d-07cf335dcc2f,Pamela Young,25,Male,Lagos,High School,Mock Exam,Use of external assistance,Yes,2025-08-03
+ff512fc7-dea7-4b41-bed0-1d9640b78d01,George Rose,18,Other,Enugu,High School,JAMB,Use of external assistance,No,2023-11-27
+639fd7ea-a3e0-4a0d-9577-6a580fc3dc0e,Chad Reyes,18,Female,Ibadan,Undergraduate,NECO,Collusion with other candidates,No,2023-10-10
+fcabcf8b-440a-4209-bbf0-0cda16220068,Michael Garcia,30,Other,Enugu,High School,Mock Exam,Use of external assistance,No,2024-11-01
+cf5cfb67-597f-4294-9383-0b8076f6a6b0,Joan Wilson,22,Other,Kano,Undergraduate,JAMB,Use of external assistance,No,2025-04-03
+3c57eec0-25ee-4c3c-849e-c022c397ff02,James Wells,19,Male,Lagos,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2025-06-06
+353b0404-211f-47ae-9397-d3d2e40643b2,Monica Carlson,20,Other,Enugu,Postgraduate,NECO,Use of external assistance,Yes,2024-12-20
+09820440-d599-4d0e-a6a2-454a1f1cf19e,Whitney Mcguire,30,Male,Enugu,Postgraduate,WAEC,Collusion with other candidates,No,2024-06-26
+13a05f7d-d435-47bb-95e0-4b90382d216e,Miss Samantha Campbell,25,Male,Abuja,Postgraduate,JAMB,Smuggling of unauthorized materials,Yes,2025-06-10
+11d58a83-112a-4e95-a2a7-837568ed0d8c,Rodney Whitaker,23,Male,Port Harcourt,Postgraduate,WAEC,Impersonation,No,2025-03-07
+48325eb6-f0cc-4c57-a7c4-a918585bb4df,James Davidson,18,Other,Lagos,High School,University Exam,Smuggling of unauthorized materials,No,2024-11-06
+c393ff2e-84b6-476f-a0bf-14dcf832063c,Leah Medina,20,Female,Benin,Undergraduate,JAMB,Copying from neighbors,No,2024-05-22
+493c2139-5c22-45f8-b791-f4956ee9d8cd,Lori Baker,18,Female,Port Harcourt,High School,University Exam,Cheating with electronic devices,Yes,2025-01-23
+7739a8dc-3aed-4570-855b-65956d4066c8,Morgan Hart,24,Male,Enugu,Undergraduate,WAEC,Cheating with electronic devices,No,2024-05-21
+e5a0ecae-bddc-4c8f-9889-b7ce35d4b18f,Sara Meyer,20,Female,Kano,Postgraduate,WAEC,Copying from neighbors,Yes,2024-10-07
+cbb3977b-2ffd-48bc-88e2-dbec1215be13,Sherry Hart,25,Other,Benin,Postgraduate,WAEC,Smuggling of unauthorized materials,Yes,2023-11-18
+ae822692-3875-4ec7-ac98-b2f7e59c36a7,Edward Miller,28,Male,Lagos,High School,JAMB,Collusion with other candidates,Yes,2024-07-31
+3f397897-5877-4646-aa6f-1d5f7831b373,Roger Williams,28,Other,Ibadan,Postgraduate,JAMB,Impersonation,Yes,2024-08-09
+e0cf6035-4463-48d4-816d-bb8cc9192786,Jaclyn Price,18,Male,Kaduna,Postgraduate,Mock Exam,Falsification of results,No,2025-04-18
+81d91fa5-8491-4831-98b8-855e3d593d93,Nicole Davis,19,Male,Enugu,High School,University Exam,Cheating with electronic devices,No,2024-04-11
+bf3ff7d9-60cd-4e83-89c6-8b4924f6a98c,Isabella Grant,30,Male,Abuja,High School,NECO,Collusion with other candidates,No,2024-03-02
+fc79dec8-c8f1-4b1a-bb06-340c3f657de3,Scott Sanders,17,Female,Abuja,Undergraduate,University Exam,Smuggling of unauthorized materials,No,2023-12-07
+cc153865-7ce0-401c-a3ca-ff31f30fee4c,Joseph Martin,23,Male,Kaduna,High School,JAMB,Smuggling of unauthorized materials,No,2025-08-03
+c92e6229-66f4-49f7-9d1c-541e1bbba3e8,Alison Osborn,20,Female,Lagos,Undergraduate,University Exam,Smuggling of unauthorized materials,No,2023-11-28
+fe32934b-ac12-4761-a9f2-f992922f9385,Cindy Alvarez,22,Female,Lagos,High School,WAEC,Cheating with electronic devices,No,2024-11-25
+4da72a3e-f039-4d54-8f77-a30e93746b58,Kristine Moore,28,Other,Port Harcourt,Postgraduate,WAEC,Falsification of results,No,2023-09-04
+71c54a43-7cd7-482b-857d-cdd65f7ee750,Patrick Martin,28,Other,Benin,Postgraduate,NECO,Smuggling of unauthorized materials,No,2025-01-17
+f00e63a2-a7b8-436c-a547-72262451e2a8,Jacob Armstrong,17,Female,Lagos,Postgraduate,Mock Exam,Copying from neighbors,Yes,2024-12-04
+814774e0-c8dc-4769-ac37-25e977564e14,Katelyn Kelley,18,Female,Kano,High School,NECO,Falsification of results,Yes,2024-11-20
+15665d2a-79dd-4e1a-b589-f38a61d04484,Thomas Douglas,19,Male,Kaduna,High School,University Exam,Collusion with other candidates,Yes,2023-12-14
+c3c0cbc2-97be-4d5d-8f4a-f0044f5063f6,Tasha Roberts,23,Female,Abuja,High School,University Exam,Copying from neighbors,No,2024-10-04
+ed39896e-b6ac-44cb-8a1e-7602e238c64b,Christopher Norman,25,Female,Benin,High School,Mock Exam,Copying from neighbors,No,2024-11-09
+2c8f2318-f9d3-4938-a0fe-0d3ab7cd2dd9,Lori Carr,18,Female,Kano,High School,Mock Exam,Copying from neighbors,Yes,2024-10-29
+f5e1eeb8-0aba-4ab7-aa2a-8b944f56eb31,Hector Perez,18,Other,Abuja,Undergraduate,Mock Exam,Impersonation,No,2023-08-16
+b14b7364-4a7b-4c70-ba86-1b32419c5240,Thomas Hall,23,Female,Benin,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2025-05-26
+dbbe629b-408f-493d-8313-14f3f6f624de,Carlos Schneider,20,Female,Kaduna,High School,Mock Exam,Copying from neighbors,No,2023-12-21
+d9f0fb41-8f44-4a23-b1aa-a583c91ca36e,Brian Sutton MD,16,Female,Enugu,Postgraduate,NECO,Cheating with electronic devices,No,2024-01-30
+1054bb40-e2e1-4978-8c03-3534ef2c8993,Robert Silva,23,Female,Lagos,Undergraduate,JAMB,Impersonation,No,2023-09-06
+0ce43465-a167-42e0-96bc-0c5b39dd8337,Nicholas Frey,30,Other,Abuja,High School,NECO,Impersonation,No,2024-06-09
+1ed7f974-b9f8-4d04-a702-f0dda3d260ec,Nicholas Miller,25,Female,Kaduna,Postgraduate,WAEC,Collusion with other candidates,No,2024-04-30
+4e6a0555-c118-48de-b046-e8851f9e2d4a,Benjamin Gutierrez,21,Female,Benin,Postgraduate,JAMB,Falsification of results,Yes,2024-10-11
+fe7b99ca-7cab-4602-a779-24262345dca4,Tammy Spencer,20,Male,Ibadan,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2024-01-13
+e10241d3-0ada-4dd3-af38-2524ad0bb68c,Heather Carroll,15,Male,Port Harcourt,High School,WAEC,Collusion with other candidates,Yes,2024-05-31
+ceef3d9a-3996-4217-b851-3ab3617d004d,Caitlyn Rivera,29,Male,Enugu,Postgraduate,NECO,Impersonation,No,2023-10-02
+483b655f-8609-47a3-89cc-cc06aba742a1,Brittany Sutton,29,Other,Kaduna,Postgraduate,WAEC,Use of external assistance,Yes,2025-03-15
+8d7142bd-b803-4296-85ed-883605f9030e,Jason Rose,22,Female,Benin,Postgraduate,University Exam,Collusion with other candidates,No,2025-05-03
+899d4a55-dbd9-47d0-a581-477045e21b72,Lisa Gonzalez,26,Female,Kano,Undergraduate,WAEC,Impersonation,Yes,2025-07-09
+9c893614-02fe-41a5-90ae-b5d69ae516a4,Chris Green,27,Male,Kano,Postgraduate,NECO,Falsification of results,Yes,2025-04-03
+9a3d6de5-0d0f-4719-91af-11ccbb456581,Roy Bird,22,Other,Port Harcourt,Undergraduate,University Exam,Copying from neighbors,Yes,2024-08-10
+be83fdb7-8948-41e6-bb7c-86f0764b9b66,Kelly Atkins,15,Female,Kano,Postgraduate,NECO,Copying from neighbors,Yes,2025-04-09
+dfd4dfde-9e06-4215-9e7d-80750c312a79,Charles Davis,22,Female,Ibadan,Postgraduate,JAMB,Smuggling of unauthorized materials,No,2024-11-14
+5cf1f8c5-77d6-4376-a90b-6e1e8261cf0d,Shane Boyle,26,Female,Ibadan,High School,University Exam,Impersonation,No,2024-02-05
+f8019f48-ed99-496e-813d-f958531acf6e,Tamara Johnson,18,Male,Enugu,Postgraduate,Mock Exam,Copying from neighbors,No,2025-01-08
+7585d935-5feb-4627-b261-0fe0bd6b69f3,Deborah Holmes,24,Other,Abuja,Undergraduate,WAEC,Impersonation,No,2024-12-01
+d8e99407-5bcd-40d1-87f8-aca88db6304b,Joseph Cole,25,Female,Ibadan,Postgraduate,JAMB,Collusion with other candidates,Yes,2024-04-18
+0df63ced-5be3-4171-8f44-71a26145e117,Dr. Amy Ortega,22,Male,Kaduna,Postgraduate,JAMB,Use of external assistance,Yes,2024-05-07
+78cee221-11b9-4fc3-ac22-0b6f4c486d49,Nicole Munoz,15,Other,Benin,Undergraduate,JAMB,Smuggling of unauthorized materials,No,2023-11-14
+06e1b683-d0e7-4339-9166-2d6f60eb324f,Michael Stevenson,27,Other,Lagos,Postgraduate,Mock Exam,Falsification of results,Yes,2025-05-12
+4b38493a-21c3-4b9f-9154-120574573e4d,Claudia Thompson,25,Other,Port Harcourt,Postgraduate,Mock Exam,Use of external assistance,No,2023-09-04
+b4bb6795-fc48-48db-a754-af91cbd5e911,Jake Mccall,26,Other,Ibadan,High School,Mock Exam,Collusion with other candidates,No,2023-11-12
+9881c50b-76fa-4d4b-bb6a-ae62c76c260c,Francisco Dalton,18,Female,Kano,Postgraduate,JAMB,Use of external assistance,Yes,2025-02-25
+e9beff73-6383-43ec-b27b-1e957e0108cc,Kendra Anderson,25,Other,Abuja,High School,JAMB,Collusion with other candidates,No,2024-09-21
+d0d0511d-7190-4227-b8d9-07cda5ea531f,Ashley Reilly,28,Female,Enugu,Undergraduate,Mock Exam,Impersonation,No,2025-05-09
+bfe99e92-fb2c-412f-8f4b-b3ee00fc87b2,Rhonda Martin,18,Female,Lagos,Postgraduate,Mock Exam,Copying from neighbors,Yes,2024-09-17
+753cc997-cc36-4bd5-9293-47692738766a,Angela Morse,30,Male,Abuja,Postgraduate,University Exam,Copying from neighbors,No,2023-08-13
+fc5a2507-9b63-4d4d-bad4-633d81bc689a,James Gonzales,28,Male,Kano,High School,NECO,Impersonation,No,2025-01-12
+1366a597-9e4f-44e6-b5ca-5c5f3937a7d0,Dean Baker,29,Male,Enugu,Postgraduate,NECO,Falsification of results,Yes,2025-01-17
+486ac494-cc47-4e8f-ae50-16d03134ca64,John Garrison,30,Female,Kano,Undergraduate,WAEC,Cheating with electronic devices,No,2025-04-08
+3ff99fd2-77a6-4606-82f9-66b0829e9e44,Amber Velez,23,Male,Kano,Postgraduate,NECO,Smuggling of unauthorized materials,Yes,2023-10-24
+da2dca13-61f1-424c-a884-8e2a05ee4f7c,Emily Medina PhD,19,Other,Kaduna,Postgraduate,University Exam,Smuggling of unauthorized materials,No,2024-07-10
+26cb5b50-6ff2-4bab-85a9-520cfa7a34a2,Aimee Harmon,30,Female,Lagos,High School,Mock Exam,Collusion with other candidates,No,2024-09-18
+2cee81e9-a115-4a02-b55d-8660dc44beba,Brian Wood,15,Female,Port Harcourt,High School,WAEC,Use of external assistance,Yes,2024-10-12
+584d40ab-4b4a-4d83-89c2-2385665756d6,Robert Cooper,22,Other,Enugu,Undergraduate,NECO,Cheating with electronic devices,No,2024-02-09
+650b5b9e-cb4f-4ec2-8d58-e41e2b3cba15,Mackenzie Williams,24,Male,Abuja,High School,JAMB,Impersonation,No,2025-04-16
+d77e5f5d-b038-47d7-97e5-edfaebf22716,Christine Koch,25,Female,Kano,Undergraduate,University Exam,Impersonation,Yes,2025-04-10
+f95266a7-672f-472a-9237-66d448e2a3f9,Justin Thompson,20,Female,Lagos,High School,NECO,Use of external assistance,Yes,2024-01-29
+6de8d7c8-693a-4516-84fa-9418b34b6ceb,Michael Norton,21,Other,Lagos,Postgraduate,Mock Exam,Collusion with other candidates,Yes,2024-01-06
+28a70d1d-1b03-4333-81aa-b57911fc8213,Anthony Flores,26,Other,Lagos,Undergraduate,JAMB,Falsification of results,Yes,2023-10-23
+e113d139-c3a8-415c-af27-0f91d450d83a,Zachary Ramsey,16,Other,Abuja,Postgraduate,WAEC,Cheating with electronic devices,Yes,2024-06-19
+d3088a8e-ed24-428e-bbcc-d840f3a0e836,Christopher Simpson,28,Female,Kaduna,High School,Mock Exam,Impersonation,No,2025-03-21
+4ed7125e-5452-4571-8442-3e550c4d02b6,Clayton Carrillo,19,Male,Lagos,Undergraduate,University Exam,Use of external assistance,Yes,2024-03-28
+0dbf788b-802b-43c2-b0d9-18b7b1e74a1d,Katie Cunningham,23,Other,Kano,Undergraduate,WAEC,Copying from neighbors,Yes,2025-01-21
+9ac5c0c0-cd1a-4245-9675-1d9636c22d14,Thomas Riley,24,Male,Abuja,Undergraduate,NECO,Copying from neighbors,Yes,2025-03-12
+d9cf39c9-e58c-41ef-9fcb-ce306a77de0a,Cynthia Myers,23,Other,Port Harcourt,Undergraduate,University Exam,Impersonation,Yes,2024-05-26
+cad2e55f-a0d9-46c8-97e8-e99307055aa9,Daniel Kirby,16,Other,Benin,High School,University Exam,Impersonation,Yes,2024-12-27
+d0ae57f2-80eb-4d77-9964-f9648ee6b3bb,Shawn Vasquez,15,Male,Abuja,High School,Mock Exam,Use of external assistance,No,2024-08-20
+3dddc94c-1a0b-4c65-83fe-3b82d1468c0d,Chelsea Castillo,19,Male,Abuja,Postgraduate,WAEC,Impersonation,Yes,2023-10-11
+29d498f6-c746-4d20-91f5-edd805e289ef,Jeffrey Barnes,29,Female,Ibadan,Undergraduate,WAEC,Cheating with electronic devices,Yes,2023-09-12
+8296c990-17e1-42b7-af8f-10731b2345d6,Virginia Barry,16,Female,Enugu,Postgraduate,JAMB,Smuggling of unauthorized materials,Yes,2023-09-25
+6c07809b-ec46-4d7e-b573-9ff651d7f7c9,Jennifer Choi,18,Male,Lagos,High School,NECO,Impersonation,No,2025-06-12
+4db3da06-dca1-425d-8ad6-6c739039ebf2,Stephanie Morrow,29,Other,Ibadan,Postgraduate,WAEC,Impersonation,No,2024-03-15
+4b45ef29-6b89-4e29-903e-c9072b42e669,Cassie Garcia,20,Male,Kaduna,Undergraduate,University Exam,Impersonation,No,2024-07-31
+3888d003-b64b-4c42-8314-91829bd1d364,Christian Rush,30,Female,Kano,High School,NECO,Use of external assistance,Yes,2025-07-17
+016481fd-1485-4a59-9e13-d64ae1495f75,Jill Russell,20,Male,Kaduna,Postgraduate,University Exam,Falsification of results,No,2025-04-05
+93784955-2d08-4a64-b34b-8941cb88f59e,Theresa Reid,20,Other,Kaduna,Undergraduate,Mock Exam,Cheating with electronic devices,Yes,2025-03-12
+d164b484-abc0-4c7a-a3ef-c7174f40d148,Gregory Flynn,30,Female,Abuja,Undergraduate,University Exam,Cheating with electronic devices,Yes,2024-11-03
+82ae1a12-4471-4be0-9ade-b4e3a6463852,April Richardson,23,Other,Enugu,High School,Mock Exam,Falsification of results,Yes,2025-02-14
+b0c1541b-27d1-48c9-a4d2-7c2ea480e053,Michael Griffin,25,Other,Abuja,Undergraduate,NECO,Smuggling of unauthorized materials,No,2025-03-21
+0edf97d4-2b63-4b51-8487-04e01a3835a3,Bryce Green,27,Male,Lagos,High School,NECO,Copying from neighbors,No,2024-09-11
+60b83b12-f399-4539-9d93-3c79d685ec35,Tiffany Marquez,30,Male,Abuja,Undergraduate,JAMB,Collusion with other candidates,No,2023-12-25
+c9b5cae6-c3b9-4640-bc4c-3024e53c8ec1,Edward Henderson,23,Male,Port Harcourt,Postgraduate,University Exam,Smuggling of unauthorized materials,Yes,2025-01-13
+bd8806f1-a4ce-4105-a000-50e739f7c2bd,Kyle Hill,17,Female,Benin,Postgraduate,University Exam,Cheating with electronic devices,No,2025-02-26
+598dbebe-21e5-4c7c-bba0-eabcb6980d9a,Melissa Hobbs,29,Female,Abuja,Undergraduate,WAEC,Cheating with electronic devices,No,2024-10-16
+9e3b4e3f-43cf-43ba-b3cb-3bd8048348fb,Jason Turner,28,Male,Lagos,High School,Mock Exam,Copying from neighbors,No,2024-06-25
+f5998134-738e-4a11-a1f5-34897a6fe4f4,Christopher Spencer,21,Other,Benin,Undergraduate,JAMB,Falsification of results,Yes,2025-03-10
+0eee8e02-027b-4714-9882-64e5bcfd26b3,Jared Day,22,Female,Enugu,Postgraduate,Mock Exam,Copying from neighbors,No,2024-08-04
+82d93329-fb29-474f-84d1-44af6fd13176,Whitney Williams,26,Other,Benin,High School,WAEC,Falsification of results,Yes,2025-04-05
+0ea698bc-ae51-48f3-b54d-9b7c26e1acf5,Shannon Tucker,15,Female,Enugu,Postgraduate,JAMB,Copying from neighbors,No,2025-06-29
+43e8d561-0989-4781-81d7-86a93845b7b3,Crystal Wilson,18,Male,Kano,Undergraduate,NECO,Falsification of results,No,2024-01-02
+db672722-c637-4320-b445-a0682a58f5e1,Brandon Kennedy,18,Female,Port Harcourt,High School,WAEC,Falsification of results,No,2025-04-10
+a808a52f-bf08-4144-ad49-3a531b56e935,Hector Manning,21,Female,Port Harcourt,Postgraduate,JAMB,Cheating with electronic devices,No,2025-02-06
+078f8af3-77d6-4f57-a54c-48f62b1a859f,Jennifer Myers,16,Other,Abuja,Undergraduate,University Exam,Use of external assistance,Yes,2025-06-16
+64d9574a-744d-4ea1-ab01-5e32ab1e19ac,Daniel Blevins,30,Male,Lagos,Postgraduate,University Exam,Falsification of results,No,2025-04-23
+72a315cf-efeb-4cec-98bf-6a30462cfdac,Aaron Hall,20,Other,Kano,Postgraduate,NECO,Cheating with electronic devices,No,2024-11-20
+c557f36c-8fc0-4305-b7fb-3a65ef97a6b7,Alan Hayden,25,Other,Kaduna,Undergraduate,Mock Exam,Use of external assistance,Yes,2023-10-12
+22333c27-7107-4a5f-bfda-91930a2983ce,Michael Bell,23,Female,Enugu,Undergraduate,University Exam,Falsification of results,Yes,2024-10-23
+edcf207a-9cdc-4954-b0cd-a32247f515aa,Lindsey Greene,19,Female,Ibadan,Postgraduate,Mock Exam,Falsification of results,No,2025-01-31
+5aabf622-480f-4ee0-9c37-8251194f6d32,Paige Taylor,21,Male,Port Harcourt,Postgraduate,JAMB,Use of external assistance,No,2025-04-11
+950a2fd1-1811-4ed4-8b4a-751c7e359a59,Jessica Reynolds,19,Other,Kano,Postgraduate,Mock Exam,Use of external assistance,No,2023-11-14
+427e3c39-7f68-4cb4-be10-293300db58c3,April Cooper,18,Female,Benin,Postgraduate,Mock Exam,Use of external assistance,No,2023-12-20
+bbd6f40a-b7ad-40e3-938e-9297071041c3,Ronald Alexander,24,Female,Lagos,Postgraduate,WAEC,Cheating with electronic devices,No,2024-10-14
+597a760c-3c6d-4c94-8ff3-d1717229b51c,Ethan Perry,19,Male,Lagos,High School,JAMB,Falsification of results,Yes,2024-09-05
+e7f9392d-577c-430c-bf3c-cf6c980258bc,Helen Glover,24,Other,Ibadan,High School,WAEC,Use of external assistance,No,2024-09-15
+54736640-e999-4e48-818b-db80a5c27a36,Valerie Diaz,21,Other,Lagos,Undergraduate,University Exam,Cheating with electronic devices,Yes,2023-11-05
+9e014e22-22f9-4c0e-b23b-a195d2998706,Derrick Sims,27,Male,Ibadan,Postgraduate,WAEC,Smuggling of unauthorized materials,No,2024-05-03
+c1cc20ef-f1e7-4615-8eb4-2641c62814c1,Patty King,28,Other,Enugu,Postgraduate,WAEC,Cheating with electronic devices,No,2023-12-07
+e1f89be3-56fc-49ac-b08e-e5c1f1e94dde,Scott Gross,21,Other,Benin,High School,JAMB,Falsification of results,Yes,2024-05-14
+ed3dbccb-433e-4caf-8dbf-4517be40e134,Raven Chang,21,Female,Benin,High School,WAEC,Collusion with other candidates,Yes,2024-11-16
+1a83e1ce-a639-499a-80b4-10181f04d0cd,Breanna Alexander,18,Female,Lagos,Undergraduate,JAMB,Copying from neighbors,No,2024-03-10
+3b93b1cc-9c7c-4937-9566-faf95e1f35e9,Gina Carroll,19,Male,Ibadan,High School,JAMB,Smuggling of unauthorized materials,Yes,2024-06-19
+a0737a63-46f3-48dd-835e-d4513d9c71ea,John White,16,Male,Enugu,Postgraduate,WAEC,Falsification of results,No,2023-10-10
+afd23bee-fcf2-46b5-a3c3-c14303d33d04,Glenn Snyder,30,Other,Enugu,High School,JAMB,Copying from neighbors,Yes,2025-01-04
+5130ad43-da5f-4f8f-8956-b3f52a572421,Tina Waters,20,Other,Abuja,Postgraduate,NECO,Smuggling of unauthorized materials,No,2024-06-04
+0a39c7f7-f848-4ee8-8b64-1205f1cda045,Matthew Williams,17,Female,Port Harcourt,High School,JAMB,Impersonation,No,2024-01-30
+83d4a044-99e7-4dca-a53d-2bebeeeb7d8a,Kathy Campos,24,Male,Benin,Postgraduate,WAEC,Cheating with electronic devices,No,2025-02-10
+a69a90db-fd32-46d7-b4c5-91c78be47b98,Eric Lee,29,Male,Port Harcourt,High School,JAMB,Smuggling of unauthorized materials,Yes,2024-07-29
+e99e745f-997c-4039-8e11-167cf5be06cb,Kevin Kelly,27,Female,Ibadan,High School,Mock Exam,Falsification of results,No,2023-10-14
+9fa85caf-52e1-4064-b669-8d3f82604f29,Danielle Sanchez,29,Female,Lagos,Undergraduate,NECO,Impersonation,Yes,2023-11-07
+7032df33-1ee6-400d-b877-89deebf85953,Stephanie Mendez,18,Male,Lagos,Postgraduate,WAEC,Collusion with other candidates,Yes,2023-08-25
+2ad8c926-f537-4ece-8ecb-07e0f4ef1069,Larry Higgins,28,Male,Port Harcourt,Postgraduate,University Exam,Use of external assistance,Yes,2024-05-06
+a6a967cc-0d44-4331-8dd4-7e39a9281ec2,Clayton York,19,Male,Benin,Postgraduate,JAMB,Cheating with electronic devices,Yes,2025-06-04
+b661c18c-32c0-4c5f-acca-17a189c1f239,Joyce Flowers,17,Male,Kano,Undergraduate,Mock Exam,Cheating with electronic devices,Yes,2024-01-13
+b8b31da6-f83b-4005-a377-3b4d12060c94,Nicholas Hall,23,Female,Kaduna,Undergraduate,University Exam,Smuggling of unauthorized materials,No,2024-12-13
+797a235a-3896-4f04-98a7-553e3c709863,Julie Beltran,15,Female,Abuja,Postgraduate,WAEC,Use of external assistance,Yes,2023-09-21
+01dc5a5f-0778-4d1a-9b52-4a9719a8d4e0,Patrick Moore,16,Other,Abuja,Undergraduate,Mock Exam,Cheating with electronic devices,No,2024-11-27
+523ea073-bf49-42b2-977d-bcc760f652f4,Kyle Smith,24,Other,Abuja,Undergraduate,University Exam,Smuggling of unauthorized materials,No,2023-10-01
+25a241a6-3b40-4658-ab71-adef9adc0da8,Natalie Rice,15,Female,Kano,Postgraduate,NECO,Collusion with other candidates,No,2024-05-14
+7920b204-b6e6-44be-987f-f2d36ca993de,Kimberly King,24,Other,Kano,Undergraduate,JAMB,Cheating with electronic devices,Yes,2024-03-29
+91b79ffd-8040-49b1-96d8-bb6507962f73,Michael Wilkins,18,Male,Lagos,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2025-01-10
+34072384-a1e8-464e-8d41-b6926a24127e,Christopher Hall,24,Male,Enugu,High School,University Exam,Use of external assistance,Yes,2025-02-03
+05fc9f2e-0186-471e-a108-ecdc28e5b64e,Christina Ellis,20,Male,Port Harcourt,Postgraduate,JAMB,Collusion with other candidates,Yes,2024-01-03
+2d9ab42d-adbe-4b09-9454-ca1c310fe945,Lauren Humphrey,20,Other,Lagos,Postgraduate,University Exam,Use of external assistance,Yes,2024-03-13
+e586f657-a2ba-48c6-858a-795b1204c2f0,Edward Ramirez,24,Other,Abuja,Undergraduate,WAEC,Collusion with other candidates,No,2025-07-22
+b56ad41b-3046-4186-8123-49fb4e8033ad,James Adams,25,Female,Kano,Postgraduate,NECO,Cheating with electronic devices,No,2024-08-24
+cbe8c8a7-2046-499e-92a8-5b9c15a9a616,James Taylor,17,Male,Enugu,Undergraduate,University Exam,Impersonation,No,2024-02-05
+32218ab5-6e53-4edc-98ea-e77758f8a113,Christine White,19,Other,Enugu,Undergraduate,University Exam,Collusion with other candidates,Yes,2024-06-23
+bdd95a2b-ac3a-42bc-9876-435d1355a0e2,Meghan Vargas,25,Male,Port Harcourt,Postgraduate,University Exam,Impersonation,No,2024-09-15
+2ce95d02-0c5c-4557-bf64-9e01d2a23c35,Kylie Berry,19,Other,Enugu,Undergraduate,University Exam,Smuggling of unauthorized materials,No,2025-01-04
+33172fcf-e355-4cca-a905-772daf2e37fe,Theresa Dickerson,24,Female,Abuja,High School,Mock Exam,Cheating with electronic devices,No,2025-07-01
+2a5e8f23-20da-49e3-8cdd-2a7f7090fa10,Michael Ho,19,Other,Port Harcourt,Undergraduate,WAEC,Use of external assistance,Yes,2025-01-31
+4f37faf6-90da-4658-89db-38d88dc030cb,Tyler Dyer,15,Other,Lagos,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2024-01-25
+e9e75672-83f3-4b74-b51d-51fbb763a186,David Sherman,16,Other,Ibadan,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2024-07-01
+693bf261-87f4-4025-8346-62031f547a52,Thomas Gibson,26,Female,Port Harcourt,Postgraduate,JAMB,Collusion with other candidates,No,2023-12-04
+7ca13377-7391-4f07-9eb5-149c5653eee9,Alexandra Sullivan,17,Female,Enugu,Postgraduate,WAEC,Use of external assistance,Yes,2024-10-06
+d34c0b73-f470-4361-b3f9-031e1ead0526,Shawn Hanson,20,Other,Kano,Undergraduate,NECO,Collusion with other candidates,Yes,2024-03-16
+48190335-e129-4699-892e-8e1a8c44e5a5,Sarah Carter,30,Female,Lagos,High School,University Exam,Collusion with other candidates,Yes,2024-05-03
+66df8cbb-4b91-4a17-972c-bb64dd4b65e3,Amber Savage,23,Female,Port Harcourt,High School,NECO,Copying from neighbors,No,2025-06-29
+8a90ac7b-d306-4ea6-986e-93c397ef2ea4,Gina Morgan,27,Female,Benin,High School,WAEC,Use of external assistance,No,2025-03-19
+e0e49144-758f-4771-b28a-b6fc7711ddcd,Eduardo Schmidt,18,Other,Ibadan,Postgraduate,JAMB,Copying from neighbors,Yes,2025-04-02
+c6e73449-f37b-4b3f-bc89-a98376e9a2fb,Kevin Phillips,27,Other,Kaduna,Undergraduate,Mock Exam,Use of external assistance,Yes,2024-04-26
+02d81f6d-e57b-4750-8c98-3e3fe1a25c25,Dr. Debra Ramirez DDS,23,Female,Port Harcourt,Postgraduate,University Exam,Impersonation,No,2024-05-30
+1cad7ab7-9959-4ddf-a1cb-b543c1788f53,Donna Booth,30,Female,Lagos,Postgraduate,NECO,Smuggling of unauthorized materials,Yes,2023-09-06
+6f040f70-2fee-4507-a2a4-65fb85486555,Paul Smith,22,Male,Ibadan,High School,NECO,Collusion with other candidates,Yes,2023-10-12
+a445676a-d6ca-40b2-bb32-c2204cd214dc,Michael Peters,26,Other,Abuja,Postgraduate,NECO,Smuggling of unauthorized materials,No,2024-01-31
+7c911c66-3455-4aa9-b316-5f90f69f398c,Anita Jones,18,Female,Benin,Undergraduate,NECO,Copying from neighbors,Yes,2024-08-14
+29564c8c-cfa3-4e5f-81b7-0359760bd960,Angela Davis,28,Male,Port Harcourt,High School,NECO,Copying from neighbors,Yes,2025-03-22
+c4df6722-d169-40d2-a7ee-7f1df91b315f,Alexandra Greene,19,Other,Lagos,Postgraduate,NECO,Cheating with electronic devices,Yes,2024-10-27
+51a2b762-c45c-486a-99e9-bf960b2076f8,Ashley Mccann,23,Male,Kaduna,Postgraduate,Mock Exam,Use of external assistance,Yes,2023-09-25
+ded85e00-ae29-465f-bfb9-4b8a7b373fc2,Wendy White,24,Male,Port Harcourt,Undergraduate,Mock Exam,Smuggling of unauthorized materials,No,2023-10-20
+9a94e2a9-c5a3-4ebb-93fb-37df31580ba6,Patrick Clark,20,Male,Kaduna,Postgraduate,NECO,Falsification of results,Yes,2025-03-14
+af2ae460-29a2-4582-bfe9-850d350a02f6,Alyssa Stewart,23,Male,Enugu,Undergraduate,Mock Exam,Copying from neighbors,Yes,2024-05-13
+a8cd4b76-11b8-457e-9b18-6ee678e70296,Mitchell Martin,22,Female,Kaduna,High School,WAEC,Cheating with electronic devices,Yes,2023-08-29
+4ed021c7-7832-424c-b5ad-961ac8182fc0,Sara Fisher,28,Male,Abuja,High School,University Exam,Copying from neighbors,Yes,2023-08-26
+8e19ca31-e943-46a6-aca4-55ec69b00172,Shelby Tran,18,Male,Benin,Postgraduate,NECO,Copying from neighbors,Yes,2024-11-17
+91fd5cf2-201d-40bd-871d-dfdbfefe290d,Taylor Garcia,28,Other,Kaduna,Undergraduate,WAEC,Use of external assistance,No,2024-02-23
+86dacf3a-5978-47fe-a65f-690738004b63,Michael Adams,22,Female,Kaduna,Undergraduate,Mock Exam,Falsification of results,Yes,2024-05-26
+ccd83966-2307-43c9-889a-55c23b35f432,Shannon Williams DDS,28,Male,Ibadan,Undergraduate,NECO,Falsification of results,Yes,2025-04-18
+2fb7caed-efa9-4fe1-a4dc-752b0b14051e,Oscar Thomas,24,Other,Kaduna,Undergraduate,NECO,Cheating with electronic devices,Yes,2024-06-28
+32baa7b2-b843-4695-b461-ba012fb00b69,Shannon Rodriguez,18,Other,Lagos,Undergraduate,NECO,Use of external assistance,No,2025-04-16
+1e05f012-c73b-4747-b826-d31d5ba9ad56,Cathy Moore,28,Female,Abuja,High School,University Exam,Use of external assistance,No,2023-11-04
+6d5aa3ec-db0a-419d-b69d-f1a7fe922ef2,Alicia Miller,23,Other,Kaduna,Postgraduate,JAMB,Copying from neighbors,No,2023-09-27
+f93dff5b-fdff-4f60-9e24-015fb3b3fd5a,Douglas Buchanan,27,Male,Kaduna,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2024-03-19
+85bde9cc-2abc-4caa-affb-f4fd014094b8,Sarah White,26,Other,Benin,Undergraduate,JAMB,Copying from neighbors,No,2024-08-09
+952f0874-3ce4-4ba7-9ca3-19894fad9951,Jason Smith,27,Other,Kano,Postgraduate,WAEC,Use of external assistance,Yes,2024-04-07
+25a70ccc-3d2c-44dd-a6bf-8c8603e89348,Christopher Nunez,29,Other,Kano,High School,NECO,Copying from neighbors,No,2024-11-26
+a273e7d7-f728-442c-8430-8c4a7f64d3a8,Shawn Massey,25,Other,Lagos,High School,University Exam,Use of external assistance,Yes,2024-05-20
+3590eb45-6328-4734-a037-11fb3162759c,Allen Rodriguez,17,Male,Benin,Postgraduate,University Exam,Cheating with electronic devices,Yes,2025-05-18
+f76c38eb-0969-44c7-9af1-7589577a3a6c,Pamela Peters,23,Male,Enugu,High School,Mock Exam,Cheating with electronic devices,No,2024-06-14
+6193f774-e045-432e-93a6-a8526288bf97,Michelle Ellis,27,Other,Ibadan,Postgraduate,Mock Exam,Cheating with electronic devices,Yes,2024-05-24
+9a65cdc4-ea3f-40bd-b2c9-d03f53369085,Jonathan Massey,30,Female,Lagos,High School,Mock Exam,Impersonation,Yes,2025-03-27
+5a162325-2e0e-4179-b2cf-025a7206320b,Derrick Harris,16,Other,Port Harcourt,Postgraduate,NECO,Use of external assistance,Yes,2025-05-29
+9fe06961-9115-496b-97a9-5202e6b50cc9,Ashley Carter,26,Male,Lagos,High School,WAEC,Impersonation,No,2024-10-24
+0e1d6c55-49d9-4f49-b3a4-24ed5332ea0c,Maria Archer,26,Other,Kaduna,Undergraduate,Mock Exam,Collusion with other candidates,Yes,2023-11-14
+f504c932-377b-431b-ade4-35bb8b226847,Mark Mcdowell,17,Male,Ibadan,Postgraduate,Mock Exam,Copying from neighbors,No,2025-06-15
+6cec7519-dd57-4475-bd25-8ee7ce4cf7e7,Jeffrey Davis,26,Female,Port Harcourt,Postgraduate,NECO,Smuggling of unauthorized materials,No,2024-06-09
+4116683b-edec-4a7d-a55c-32cf690aa11b,Mary Hester,15,Female,Kano,Undergraduate,Mock Exam,Cheating with electronic devices,Yes,2024-03-18
+1372d837-f706-4956-a265-7af8c9ded6e0,Robert Sloan,24,Female,Abuja,Postgraduate,JAMB,Copying from neighbors,No,2024-09-20
+fd562ed8-192b-4945-beb4-d8e502f18878,Timothy Pope,29,Female,Benin,High School,JAMB,Falsification of results,No,2025-01-24
+0abc8304-434c-4a18-a82f-abb7f4587674,Cody Castro,29,Other,Lagos,Undergraduate,WAEC,Impersonation,Yes,2024-07-19
+fbf2ee1e-e8dc-4685-bb2d-61648aff525f,Ryan Walton,27,Other,Port Harcourt,Postgraduate,NECO,Falsification of results,No,2023-10-30
+9ee30188-61b3-460d-af7e-a973c95bf7a0,Jessica Heath,28,Female,Lagos,Postgraduate,JAMB,Collusion with other candidates,No,2025-07-12
+56183e0c-7c7e-49e9-a494-b6363ea68615,Jacob Gomez,17,Female,Enugu,High School,Mock Exam,Collusion with other candidates,No,2025-07-18
+f7cd9a29-8c5e-4787-a811-83eedea39e6a,Sheila Hull,25,Female,Port Harcourt,Postgraduate,JAMB,Collusion with other candidates,Yes,2025-02-28
+62eb65df-35ed-47a8-be1f-9b7424f38e43,Brenda Thompson,30,Other,Port Harcourt,High School,NECO,Falsification of results,No,2024-08-15
+fe26bafd-d6b1-4a5d-9b16-d4417e1ea793,Lauren Fowler,21,Male,Port Harcourt,High School,Mock Exam,Impersonation,Yes,2024-02-09
+f5847591-488a-4538-aa8c-17f9abf0b09b,Robert Stewart,18,Male,Abuja,Postgraduate,University Exam,Copying from neighbors,Yes,2024-10-19
+6a8ab924-4e56-43a6-9dd6-52abfd3a3574,Amanda Jones,16,Female,Enugu,Postgraduate,JAMB,Smuggling of unauthorized materials,No,2024-05-24
+9644bf4a-b15d-45d2-8048-1fef9ad4995f,Anthony Contreras,30,Male,Ibadan,Undergraduate,NECO,Falsification of results,Yes,2023-09-03
+c317d6c2-0704-4f5d-b721-9858bd518c80,Jordan Rivera,16,Other,Kaduna,Undergraduate,Mock Exam,Cheating with electronic devices,No,2024-06-09
+1f4a625c-efa9-4a2f-a960-72653920ed80,Mckenzie Parsons,27,Other,Kano,Undergraduate,WAEC,Use of external assistance,No,2024-04-25
+3ec7ecc8-ec51-4663-8fe4-e630001bbacf,Zachary Turner II,25,Other,Lagos,High School,NECO,Smuggling of unauthorized materials,Yes,2024-01-05
+8ce2e3eb-7f5e-4c86-a6ef-02f4a45bafc3,Shannon Rodriguez,25,Female,Ibadan,High School,Mock Exam,Impersonation,Yes,2025-02-08
+70df625b-5c67-4545-bd29-7f6dc934a9e3,Michael Black,23,Female,Enugu,Undergraduate,NECO,Smuggling of unauthorized materials,No,2025-08-04
+83fe8c87-4507-4181-991f-10fa85b914fe,Dana Chase,21,Female,Enugu,Undergraduate,University Exam,Impersonation,No,2023-12-31
+6ada82b8-1176-45e6-bdc2-566b20dff69f,Ricardo Johns,20,Other,Kano,Postgraduate,NECO,Falsification of results,Yes,2025-01-04
+cebee5d1-d8b4-4ff2-b264-629f3f514bd0,Glenn Miller,23,Male,Kaduna,Undergraduate,NECO,Collusion with other candidates,Yes,2024-04-08
+762f362d-0afa-40f8-8195-ad687eef6d01,Michael Ayers,30,Male,Kano,Undergraduate,University Exam,Collusion with other candidates,No,2023-09-19
+b5b15523-02b0-4da6-bbb9-9b84e38d391b,Denise Tyler,30,Female,Ibadan,Postgraduate,Mock Exam,Cheating with electronic devices,No,2025-04-11
+b8e6eef7-a8a6-412f-90f6-79474c779f2a,Linda Krueger,18,Other,Kano,High School,NECO,Falsification of results,No,2025-02-19
+081fa159-bc46-4d84-af04-15955930fcc6,Pamela Arnold,30,Other,Abuja,Undergraduate,JAMB,Impersonation,No,2024-08-11
+df6c7238-c2be-469f-9b5b-22017b7390fa,Timothy Pitts,26,Other,Ibadan,Undergraduate,WAEC,Smuggling of unauthorized materials,Yes,2024-11-02
+231e5a03-1d2d-4c97-8e2e-485252a86b39,Anthony Young,26,Other,Port Harcourt,Postgraduate,Mock Exam,Use of external assistance,Yes,2025-04-27
+9153de74-1796-4ef8-bf49-385a53fc631c,Caroline Phelps,24,Female,Enugu,Postgraduate,Mock Exam,Smuggling of unauthorized materials,No,2025-03-29
+5c8c0f31-5b57-4417-9c9a-8fdea1c2be0a,Andrew Baker,17,Female,Ibadan,Undergraduate,NECO,Falsification of results,Yes,2024-01-29
+69dd0d26-0c88-4eb4-9db0-52ded4820126,Chelsea Miller,25,Female,Kaduna,High School,WAEC,Collusion with other candidates,No,2025-04-08
+1f6b24f6-32f4-47be-b6ed-3c487283e5c1,Monica Andersen,22,Female,Enugu,Postgraduate,JAMB,Use of external assistance,No,2025-07-19
+d440a3c7-1285-47b9-bd13-26340a6507f6,Mrs. Meagan Wright,27,Female,Benin,Undergraduate,Mock Exam,Copying from neighbors,No,2023-11-24
+67213ca0-3c61-4fc1-92a9-7e17cfc3ccfb,Mitchell Pratt,28,Male,Kano,High School,NECO,Use of external assistance,Yes,2024-10-02
+0114c40f-ffeb-4ccd-a060-92bcaa32008c,Darren Bernard,23,Other,Abuja,High School,NECO,Smuggling of unauthorized materials,Yes,2024-08-16
+38f678b9-9de5-4acc-bc30-cb0ba74f5961,Valerie Mitchell,18,Male,Benin,Postgraduate,WAEC,Cheating with electronic devices,No,2024-06-07
+a3886332-6f51-46c2-b590-f6d3098fcc11,Martin Davis,17,Male,Ibadan,Postgraduate,NECO,Cheating with electronic devices,No,2024-08-28
+a3d788d3-23df-48fb-bfd2-2d6052244aa0,Brett Jones,24,Male,Port Harcourt,Postgraduate,JAMB,Smuggling of unauthorized materials,Yes,2024-12-09
+95d26b8c-d487-410b-9844-639ce10405cd,Jessica Allen,19,Other,Kano,High School,WAEC,Use of external assistance,No,2024-12-12
+1ef742c5-c7c1-45ed-b682-29428ed055e9,Dwayne Archer,25,Female,Benin,Postgraduate,JAMB,Copying from neighbors,No,2024-10-18
+1330039a-db16-433f-a5fc-ab29edb19063,Nicole Carpenter,19,Other,Kano,Postgraduate,Mock Exam,Smuggling of unauthorized materials,No,2025-03-20
+a8787370-63d8-4e8b-8e58-049654026d07,Chelsea Salinas,24,Female,Benin,Postgraduate,NECO,Falsification of results,Yes,2024-09-22
+6f9f5fed-5ef8-4b75-8cea-c1fede74feea,Allison Johnson,29,Female,Enugu,Undergraduate,JAMB,Collusion with other candidates,No,2024-07-13
+58327282-083c-4974-b721-2506315bcf20,Joshua Hardy,15,Male,Kano,Undergraduate,JAMB,Smuggling of unauthorized materials,Yes,2025-02-27
+639d9113-8151-41c5-a009-d3494ea562c8,Laura King,30,Female,Ibadan,High School,University Exam,Falsification of results,No,2024-12-06
+e3f10545-3c1f-4382-9607-8ae65bbfd768,Michael Jackson,22,Male,Enugu,High School,University Exam,Copying from neighbors,No,2024-08-07
+dd79c518-7fd5-42ce-b46a-e0c1676f5952,Emily Orozco,27,Male,Kano,Postgraduate,University Exam,Falsification of results,No,2025-04-24
+f6f932d3-40d8-4fa3-96a4-f5a9eedc1e01,David Lopez,22,Female,Abuja,Undergraduate,NECO,Copying from neighbors,No,2025-01-04
+d0bc53c1-1479-4f14-9806-bb908e337e16,Peter Miller,24,Other,Ibadan,Undergraduate,NECO,Falsification of results,Yes,2024-12-18
+dde479ee-8ccb-4c41-b9b7-0018a7a8ab41,Michael Henderson,20,Male,Ibadan,High School,University Exam,Copying from neighbors,No,2025-03-05
+3b6210c4-bd61-4e2b-aeec-7fcbc0edd6fc,Laura Ward,23,Other,Benin,High School,JAMB,Cheating with electronic devices,Yes,2025-03-10
+67c0e761-5eb3-4d1e-8c6d-f5bc53952299,Brittany Gonzales,16,Other,Lagos,High School,WAEC,Impersonation,No,2024-05-24
+e38fbaa1-45df-448f-a91c-3a477f53e19a,Maurice Mccann,19,Other,Benin,Postgraduate,WAEC,Collusion with other candidates,Yes,2023-12-06
+2149393c-cf7c-4a88-af2b-e966e148f1c3,Juan Velazquez,19,Male,Benin,High School,JAMB,Smuggling of unauthorized materials,No,2025-07-05
+57471fc4-23ea-4120-9d76-b6504d817d74,Douglas Smith,30,Female,Benin,Postgraduate,WAEC,Impersonation,Yes,2024-12-02
+f075b0e3-4c84-4c17-bb09-7b79d4b25e86,Mitchell Jackson,19,Male,Ibadan,Undergraduate,WAEC,Copying from neighbors,No,2025-01-10
+c9fa34d3-3bdd-46c9-a8f3-00f8bfde85bb,Shannon Martinez,20,Male,Ibadan,Undergraduate,WAEC,Cheating with electronic devices,Yes,2024-06-15
+ab776069-7e8e-47ee-8631-930efc45302f,Peter Mcdonald,27,Female,Port Harcourt,Postgraduate,WAEC,Collusion with other candidates,No,2024-11-07
+7f0a9c64-0181-4395-bda4-7e35a514e426,Lucas Mccarthy,18,Other,Port Harcourt,Undergraduate,University Exam,Use of external assistance,No,2025-06-20
+0ef21d6f-3dc5-481a-bdb6-358c482abf78,Anthony Howard,25,Male,Lagos,Postgraduate,Mock Exam,Copying from neighbors,Yes,2025-07-16
+16b94264-e364-4e9d-9e4b-198690263f40,Rebecca Haynes,23,Female,Ibadan,High School,JAMB,Cheating with electronic devices,Yes,2024-10-08
+42960fad-9621-47be-9e50-b53c9120359a,Dana Vazquez,18,Male,Kaduna,Undergraduate,WAEC,Collusion with other candidates,No,2024-12-09
+d35baef0-4456-4f95-8693-8ae117eb57e3,Darrell Humphrey,18,Female,Port Harcourt,High School,WAEC,Copying from neighbors,No,2024-02-23
+f972d52a-cda5-441a-aa02-89ea4c877e40,Timothy White,19,Female,Abuja,High School,NECO,Smuggling of unauthorized materials,Yes,2023-08-26
+5d88e2c7-e4a0-44eb-8cb3-e989b36afe89,Paige Collins,25,Other,Lagos,High School,JAMB,Use of external assistance,Yes,2024-06-02
+9b968ebd-61e2-4417-b8c9-693f69cfb2a9,Ashley King,18,Male,Benin,High School,JAMB,Copying from neighbors,No,2023-11-08
+5742c924-9a12-434f-b2b1-47a0ab56db88,Julie Graves,29,Other,Port Harcourt,High School,University Exam,Impersonation,Yes,2024-09-24
+aa52b691-cbbf-485e-8424-cc6a91423993,Haley Cabrera,23,Male,Benin,Postgraduate,University Exam,Copying from neighbors,No,2023-12-13
+d1f2d642-16da-4426-ba12-b22a11d973e9,Melissa Miller,30,Male,Kano,Postgraduate,JAMB,Impersonation,No,2024-12-26
+e73979b2-e734-4b44-ad7f-54bc7e6d3757,Melissa Richardson,23,Other,Kano,High School,Mock Exam,Collusion with other candidates,No,2025-04-26
+71ef45e5-7d7d-4055-ac22-201900640cc3,Andrew Snyder,24,Female,Enugu,Undergraduate,WAEC,Falsification of results,No,2025-02-11
+335ab07b-b80e-4dcc-8412-1918ceece0f4,John Long,20,Male,Enugu,Postgraduate,NECO,Impersonation,Yes,2024-01-06
+e98adafe-6a98-4c8f-9c5f-d2b7dd292167,Jack Davidson,27,Male,Benin,Postgraduate,NECO,Copying from neighbors,No,2025-04-19
+0854d678-a27f-42fe-a813-edc26539a7ff,Curtis Higgins,25,Female,Enugu,High School,WAEC,Copying from neighbors,Yes,2025-01-12
+12739242-9545-45b5-ac2a-a5dbbc9a617f,Andrew Morris,16,Male,Kano,High School,NECO,Cheating with electronic devices,No,2024-10-27
+ddaa60ba-df93-47ce-932c-a1ebf0071d99,Molly Barnett,21,Male,Lagos,Postgraduate,University Exam,Use of external assistance,No,2024-09-26
+9ba9d078-bf21-43d4-a6e4-4a3c7cf239e6,Julia Haley,23,Male,Enugu,High School,Mock Exam,Use of external assistance,Yes,2025-06-03
+600bca7b-bd82-4592-85ff-89c053cbae19,Steven Rhodes,15,Male,Benin,High School,University Exam,Falsification of results,Yes,2024-09-11
+2f83a6e8-a64a-4176-ab94-2c60af8de8ca,Troy Farley,26,Other,Kaduna,Undergraduate,WAEC,Falsification of results,No,2024-04-03
+10c71205-ec2c-47a8-8f5d-e8d04591f6bf,Robert Marshall,16,Other,Abuja,Undergraduate,WAEC,Collusion with other candidates,Yes,2024-01-06
+e0593bf8-0552-4152-a08d-9ccc05433b2f,Christine Cook,18,Other,Port Harcourt,Postgraduate,University Exam,Collusion with other candidates,Yes,2023-11-28
+4a6dad7c-1e31-4ac9-ab17-47275a8d9546,Richard Carter,22,Other,Kano,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2024-11-09
+4c354a3e-4def-41e2-945f-76b6e88453ad,Andrew Richmond,26,Other,Benin,Postgraduate,University Exam,Cheating with electronic devices,Yes,2024-07-16
+5965d935-be10-407b-856c-678574ea8b93,Cindy Simmons,20,Other,Kaduna,Postgraduate,JAMB,Use of external assistance,Yes,2024-03-02
+c0322fcc-3d36-4026-8b25-70d4c9d547c9,Danielle Jones,29,Female,Enugu,Postgraduate,JAMB,Falsification of results,No,2024-05-23
+f949a906-7a1f-4947-b5bb-3b94f24c6dcf,Nathan Morrison,28,Other,Kaduna,Postgraduate,JAMB,Copying from neighbors,Yes,2024-11-04
+74a927b4-fdb8-47c9-9610-3efb574ddfbb,Robert Bridges,21,Female,Ibadan,Undergraduate,University Exam,Smuggling of unauthorized materials,No,2024-04-12
+bbc7adde-ca95-4a34-b022-b6f8d8794340,Becky Lucas,15,Other,Lagos,Undergraduate,Mock Exam,Cheating with electronic devices,Yes,2023-11-26
+ff4612da-6b0b-4d61-bc42-f85cda1d84c4,Scott Gutierrez DDS,24,Male,Ibadan,High School,NECO,Falsification of results,No,2024-08-10
+73265e70-598d-4e03-832c-a949fe713a7c,Tracy Brown,15,Other,Ibadan,Postgraduate,Mock Exam,Copying from neighbors,Yes,2025-01-16
+ed06fc5a-eb5d-4647-880f-9e00b1097c8b,Meagan Cortez,18,Male,Benin,Undergraduate,NECO,Collusion with other candidates,No,2024-01-03
+6c895102-5909-4890-8ebd-e01fc7d0472d,Rhonda King,26,Other,Port Harcourt,High School,JAMB,Falsification of results,No,2023-08-08
+7d187116-e97e-4253-8df4-0f40fee0761c,Thomas Reynolds,17,Other,Kaduna,Postgraduate,NECO,Use of external assistance,Yes,2023-10-11
+11fe400a-4c1b-42e4-b57b-8e331996586c,Jay White,25,Female,Kano,Undergraduate,Mock Exam,Falsification of results,Yes,2025-05-31
+08f42314-720f-43c4-87a3-804373e240b4,Connie Keith,24,Male,Kaduna,High School,WAEC,Falsification of results,No,2025-05-05
+cf29fdea-1128-42d7-be4f-86098d4995d0,Mathew Hansen,26,Female,Kaduna,High School,NECO,Use of external assistance,Yes,2024-02-02
+63f6a7c5-524c-4493-a8fc-3363612c47f1,Mike Baker,27,Male,Ibadan,Postgraduate,WAEC,Impersonation,Yes,2025-01-21
+9c780b3c-eaaa-4c5f-afdb-794567c093b6,Anna Murphy,25,Other,Port Harcourt,High School,WAEC,Use of external assistance,No,2024-12-11
+bb71ad97-7e2e-433e-97e5-1a7e94bd2bbe,Heather Elliott,29,Other,Abuja,High School,University Exam,Impersonation,No,2024-04-01
+4e7a51a2-c20a-40bb-821f-047e13e197ca,Raymond Huffman,19,Male,Enugu,High School,University Exam,Copying from neighbors,Yes,2025-07-25
+292dad51-5d2f-46bc-9372-5b5b1e27c764,Marcus Cline,27,Female,Abuja,Undergraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2025-01-18
+62d9a71a-3722-4327-ad38-702c3a3c33f5,Robert Martin,19,Female,Port Harcourt,Undergraduate,University Exam,Use of external assistance,Yes,2025-01-21
+fda0965d-5418-4c41-89cd-e445bc603d55,Johnny Adkins,22,Male,Abuja,Undergraduate,University Exam,Impersonation,Yes,2025-03-29
+cf594198-b0db-4fa8-997a-95810db1b719,James Ryan,18,Other,Kaduna,Undergraduate,JAMB,Impersonation,Yes,2025-05-03
+c24ef6a5-fdfd-49c4-b9b3-5f1abf3e305a,Kelly Powers,25,Female,Lagos,Undergraduate,NECO,Impersonation,No,2025-04-30
+ed34c72f-8ad8-44b5-9b23-d7ea646e5694,Joseph Mckay,19,Female,Lagos,High School,NECO,Use of external assistance,No,2024-03-24
+751493b1-1cf7-4808-95bd-3f698cf71f3b,George Hart,19,Other,Abuja,High School,WAEC,Collusion with other candidates,Yes,2023-09-05
+fe14f457-a2ec-481b-b4a6-1bf1bebe42cb,April Lopez,24,Male,Enugu,Postgraduate,WAEC,Impersonation,No,2024-08-16
+5d35a4a6-a340-4359-b37d-3e99986559e0,Emily Barber,30,Male,Enugu,High School,Mock Exam,Collusion with other candidates,Yes,2023-09-08
+e614e22b-5d03-40b1-af23-9bbec28c0e13,Matthew Madden,23,Other,Benin,Postgraduate,NECO,Use of external assistance,Yes,2023-09-20
+c9bcc884-1fa5-4e61-af6f-7fd99aa1c8e7,Michael Lindsey,27,Other,Lagos,Undergraduate,NECO,Cheating with electronic devices,No,2023-09-25
+7cf2a858-984b-4a54-b29e-d83c1c363001,Douglas Nichols,21,Other,Ibadan,High School,University Exam,Use of external assistance,Yes,2023-08-13
+c82ba662-8efd-41d3-aa65-4e338663120b,Shawn Hill,17,Female,Ibadan,Postgraduate,JAMB,Falsification of results,Yes,2023-08-15
+61eede84-7ba6-498e-9868-1296bdccf898,Chase Ramirez,15,Female,Kaduna,High School,University Exam,Copying from neighbors,Yes,2024-04-04
+c55409e2-20cb-4f0c-ac3f-ff2268a2c156,Allison Jensen,25,Female,Abuja,High School,NECO,Copying from neighbors,No,2023-11-12
+5cc54b7e-20e5-4409-978b-6fe5ebbf25a5,Ashley Martin,15,Male,Port Harcourt,Postgraduate,JAMB,Impersonation,No,2025-07-29
+d9415c26-c5b2-47f6-afde-244fafc6c213,Margaret Patrick,27,Other,Kano,High School,JAMB,Use of external assistance,No,2024-10-25
+be2d5b27-a309-4a68-a7e8-762e9b8fe400,Samantha Gibson,26,Other,Ibadan,High School,Mock Exam,Impersonation,Yes,2025-05-24
+063fa2ef-05a7-4731-8389-41a842206cd5,Heather Hall,23,Female,Lagos,Postgraduate,JAMB,Collusion with other candidates,Yes,2023-11-22
+dda188ba-a4b1-4fc6-8e45-d0c815906e05,Erika Berry,25,Female,Kano,High School,University Exam,Copying from neighbors,Yes,2024-04-09
+11e077bd-e634-4006-92fc-5a71b5586862,Matthew Wilson,28,Male,Kano,Undergraduate,JAMB,Copying from neighbors,No,2025-05-12
+40f269a8-6b96-49df-838b-3939aeeba500,Barbara Beck,29,Other,Kano,High School,NECO,Copying from neighbors,Yes,2024-09-24
+147255e7-c494-4f3d-8441-dfcac7b1144c,Jamie Taylor,19,Female,Kano,Undergraduate,NECO,Use of external assistance,Yes,2025-01-12
+7fde3d3a-c99b-40c3-9794-b8829cfb0d49,John Warren,25,Male,Abuja,High School,JAMB,Falsification of results,Yes,2024-04-27
+de861563-d965-4ba3-a9b9-e69c7ab70f3a,Doris Lynch,15,Female,Kaduna,Undergraduate,JAMB,Smuggling of unauthorized materials,No,2025-02-09
+51c43f7c-0937-48b0-9bb0-23f9483bef6d,Tricia Meyer,19,Male,Abuja,High School,NECO,Cheating with electronic devices,No,2024-06-24
+232cbb49-3d19-4bc3-b9a4-9834c9e44bec,Nicholas Hunter,22,Other,Port Harcourt,High School,WAEC,Impersonation,Yes,2023-11-05
+c7ca530f-da0e-4e75-8ef6-82403453246a,Brian Tran,30,Male,Benin,Postgraduate,JAMB,Collusion with other candidates,No,2025-04-02
+24ec58c4-06a5-4ec7-af35-844b26a71c39,William Lucas,30,Female,Kano,High School,NECO,Collusion with other candidates,Yes,2024-04-08
+da1637b6-902f-4a9f-9646-0fb3f79ffd0b,Mrs. Crystal Cook,28,Male,Ibadan,Undergraduate,NECO,Use of external assistance,Yes,2024-04-22
+977eb0e2-6538-46c5-943b-a95564fbeb9a,Timothy Roy,21,Male,Kano,Undergraduate,Mock Exam,Smuggling of unauthorized materials,No,2024-03-07
+24fe88ab-a4c4-4021-96e8-97d42d5ece24,Diana Brennan,29,Male,Kaduna,Undergraduate,WAEC,Copying from neighbors,No,2024-08-23
+f561a5b3-762d-4717-a926-b19397a08664,Lisa Tapia,25,Female,Lagos,Postgraduate,WAEC,Smuggling of unauthorized materials,No,2023-10-09
+a7d8990a-0314-42e3-86bc-9d34e3c4de11,Patrick Sanchez,16,Male,Kaduna,Postgraduate,WAEC,Copying from neighbors,No,2023-08-20
+5bb2cd37-c326-4066-b9d8-c5d39839b1de,Ryan Morris,16,Male,Ibadan,Undergraduate,University Exam,Impersonation,No,2023-11-26
+9c69dfa9-68b3-4c1e-ab73-963c2aa2d2d2,Gregory Bradley,29,Male,Kaduna,Undergraduate,Mock Exam,Cheating with electronic devices,Yes,2024-01-24
+e268a087-2c0b-4d50-a0da-63b234c39b2d,Matthew Baker,29,Other,Benin,High School,Mock Exam,Cheating with electronic devices,Yes,2024-11-28
+600f96e8-df23-45c8-8dde-7d42f984a2be,Patrick Taylor,19,Female,Kaduna,Undergraduate,University Exam,Cheating with electronic devices,Yes,2023-10-02
+6e511ee8-ad0f-4f4b-9df5-414112d1ed11,Maria Meadows,29,Other,Port Harcourt,Undergraduate,WAEC,Impersonation,No,2023-12-01
+1ccd59ef-bdb0-47bc-8430-dfdb45056c2a,Alan Frey,20,Other,Abuja,High School,WAEC,Use of external assistance,No,2024-06-30
+1122134d-8c0f-45e4-a588-ee6f2db8949c,Mr. Howard Oneill DDS,26,Male,Kaduna,Postgraduate,Mock Exam,Copying from neighbors,Yes,2024-12-25
+58769948-14b9-412b-96fd-d0e6b3e622d0,Joshua Campbell,27,Other,Kaduna,High School,NECO,Impersonation,Yes,2023-12-21
+84975c0d-440f-4a51-a79a-84899d6800be,Larry Kim,20,Male,Kano,Postgraduate,WAEC,Smuggling of unauthorized materials,No,2023-08-23
+1eb469be-3376-4a92-b7e9-9fdab5457a1c,Andrew Moore,24,Other,Benin,Undergraduate,NECO,Cheating with electronic devices,Yes,2025-04-12
+1ff37fd8-e9ba-4cc9-8651-b30f8f9c049b,Ryan George,21,Male,Ibadan,High School,University Exam,Smuggling of unauthorized materials,No,2024-09-30
+30183be7-4dcb-4f1e-99ff-e75da0b23f35,Lisa Burnett,15,Other,Benin,High School,NECO,Copying from neighbors,No,2025-06-05
+83e1f679-be8b-4efe-8919-a5127859d796,Ashley Bass,29,Female,Benin,High School,Mock Exam,Copying from neighbors,Yes,2023-09-04
+03c7c05e-a914-4051-889e-6bc891227e5f,Debra Hudson,22,Other,Ibadan,Postgraduate,Mock Exam,Falsification of results,Yes,2025-03-28
+57a05ce7-5c31-4d8c-a5dd-caf0303393fc,Alexander Taylor,16,Male,Kano,High School,JAMB,Cheating with electronic devices,Yes,2025-03-23
+135de539-e03c-4715-be93-5fbe0fd9c203,Taylor Gibson,16,Other,Ibadan,Undergraduate,WAEC,Cheating with electronic devices,Yes,2023-08-16
+5e999dd6-1692-403b-aa5e-79bc262e914d,Steven Mueller,28,Male,Kano,Postgraduate,JAMB,Copying from neighbors,Yes,2023-11-16
+2adfb1ca-c591-4a7e-a3e4-968a56cd9a51,Tiffany Rose,29,Other,Enugu,High School,WAEC,Falsification of results,No,2023-10-04
+9f114101-fcd6-49d1-89ba-ca613c2ad968,Zachary Oneill,25,Female,Kaduna,High School,University Exam,Falsification of results,Yes,2023-10-23
+d02cfcd1-c7f3-4c76-83e5-3dee8ead2445,Jeffrey Murray,24,Female,Kano,High School,JAMB,Impersonation,No,2023-11-04
+5f0e7e40-a996-4b45-af2b-3f9397039311,Donald Coffey,21,Other,Port Harcourt,Postgraduate,WAEC,Cheating with electronic devices,Yes,2023-12-06
+314479e6-a49c-4048-b3cf-93c6689a1805,Robert Shelton,30,Other,Ibadan,Undergraduate,Mock Exam,Falsification of results,No,2024-08-16
+5828ca83-33a9-4fcc-8a45-7065f3f594f8,Rebecca Esparza,23,Other,Enugu,High School,Mock Exam,Copying from neighbors,No,2024-07-07
+e83617a7-5679-42bf-8edc-3315c77935f6,Charles Nelson,30,Female,Kano,Postgraduate,NECO,Use of external assistance,No,2025-03-28
+4e1a4c60-d18e-40a5-8d5b-114fd26d4977,William Decker,21,Male,Abuja,High School,University Exam,Use of external assistance,Yes,2024-05-31
+5c52942d-64a5-400d-b7cc-2b4133392859,Natalie Hale,21,Other,Kaduna,Undergraduate,WAEC,Impersonation,No,2025-07-23
+3dcd63ac-75a5-404f-a3e4-250d19f150c2,Tina Miller,21,Male,Port Harcourt,Postgraduate,JAMB,Impersonation,Yes,2024-12-07
+fb740f06-3345-47f6-ab39-a487c97b166e,Brenda Caldwell,24,Female,Enugu,High School,WAEC,Use of external assistance,No,2025-07-31
+6ac6ee4b-1159-412a-9401-5bfc8ea7248d,Nicholas Davis,25,Female,Lagos,High School,NECO,Impersonation,No,2023-11-28
+bea4a1d6-b88b-409b-814f-477f4d979698,Linda Morris,30,Female,Lagos,Postgraduate,NECO,Smuggling of unauthorized materials,Yes,2025-06-18
+3da2a2ac-9216-4be9-9ae8-e8c486aec2b9,Catherine Williams,29,Other,Enugu,Undergraduate,University Exam,Use of external assistance,Yes,2023-10-28
+8b049732-3dc9-40d1-8fba-e07e1cf1ca82,Nicholas Kim,24,Other,Enugu,Postgraduate,Mock Exam,Cheating with electronic devices,Yes,2025-03-23
+16feddee-2852-42b9-b955-458cfc7b036d,Catherine Bennett,25,Female,Abuja,High School,JAMB,Falsification of results,Yes,2024-01-20
+a514fb66-5ce4-4e7a-87c6-d490b8e605ea,Miss Patricia Elliott,25,Female,Kano,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2023-08-18
+df9ba38f-3e13-4e72-be48-ff1514220c3a,Jeff Villanueva,18,Female,Enugu,Postgraduate,WAEC,Impersonation,No,2024-03-16
+57b090e5-8542-4ae8-b217-14fbf251eb7e,Cynthia Clark,17,Female,Port Harcourt,Undergraduate,University Exam,Falsification of results,No,2025-02-26
+3f1e7426-af8b-4609-9c44-b58bc657209a,Michael Price,21,Other,Ibadan,High School,WAEC,Impersonation,Yes,2024-08-10
+e13d3393-3ef0-4d06-9767-18e41d55e521,Charles Greene,21,Male,Benin,Postgraduate,WAEC,Falsification of results,No,2024-12-27
+d585d71e-fdd1-44f2-9d07-113c6b003c98,Steven Munoz,19,Male,Enugu,Undergraduate,Mock Exam,Impersonation,No,2023-08-28
+c0cedfe0-f42c-4a8e-a83a-6216f5f401f9,Tonya Brown,19,Male,Kano,High School,WAEC,Smuggling of unauthorized materials,No,2024-09-09
+2aae9d1e-eb76-486d-a3d3-1e25149a7d7b,Andrew Barton,18,Male,Ibadan,High School,Mock Exam,Falsification of results,Yes,2024-04-16
+7939c06a-7464-4a6d-a945-054f6c245051,Victoria Castaneda,25,Female,Lagos,High School,Mock Exam,Falsification of results,No,2025-01-25
+9e579dc4-69b9-4d95-8bbe-28d6c28f0655,Karen Love,15,Other,Ibadan,Postgraduate,NECO,Impersonation,Yes,2025-04-16
+a74d113b-9fad-441c-8425-3a4f82669500,Trevor Duncan,21,Female,Ibadan,Postgraduate,JAMB,Falsification of results,No,2024-08-19
+b893be71-190a-4e35-ac68-4694f98a05c5,Melissa Dixon,18,Female,Kano,High School,JAMB,Cheating with electronic devices,Yes,2025-05-27
+fd5bbed0-d888-41e7-90c7-1f303cc4e12c,Tracy Webb,18,Male,Enugu,Postgraduate,JAMB,Impersonation,Yes,2024-11-07
+07c64365-feed-44b0-8ee0-5ceecece770e,Edward Roman,24,Other,Port Harcourt,High School,WAEC,Impersonation,No,2023-09-29
+dfdc496e-da12-49d8-9ee5-3d8dcee0cdf2,Kristin Smith,29,Male,Kano,High School,University Exam,Use of external assistance,Yes,2023-12-09
+770cc4a6-3338-4010-bedc-c756b691722f,Dr. Alexandra Smith,18,Female,Lagos,High School,University Exam,Smuggling of unauthorized materials,Yes,2024-06-24
+458976bb-2f58-4445-a018-1eb938b8839c,Robert Holmes,29,Other,Enugu,Undergraduate,JAMB,Falsification of results,Yes,2024-03-27
+b5840f4c-572b-416d-8bac-42bef7709d81,Troy Leonard,17,Female,Kano,High School,University Exam,Cheating with electronic devices,No,2024-10-26
+e65f94bd-d25b-43bd-a25d-81630275a9ac,Mark Roberson,24,Other,Benin,Undergraduate,NECO,Collusion with other candidates,Yes,2024-03-20
+c0adc511-422b-4afb-a1a0-29464ba47878,Makayla Nguyen,23,Female,Kaduna,High School,JAMB,Falsification of results,No,2024-05-20
+4cb1adb1-afd5-4873-956d-97c9e6e03a33,Bridget Sanders,29,Female,Lagos,High School,University Exam,Cheating with electronic devices,No,2025-01-26
+c97a5f12-c00b-40a4-aa5b-a1485c00f14c,Joshua Wright,30,Female,Kano,Undergraduate,JAMB,Copying from neighbors,Yes,2023-11-14
+a61efe76-807c-49c7-8f61-ad27b59398d7,Sarah Pace,18,Female,Abuja,Undergraduate,Mock Exam,Use of external assistance,Yes,2024-09-29
+6e75ae88-533a-41a4-b66b-edb96b3f13fc,Karen Arroyo,24,Other,Benin,Undergraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2024-10-02
+9c335a06-a696-4d91-8151-7f4948680586,Jaime Hays,22,Other,Kano,Undergraduate,University Exam,Cheating with electronic devices,No,2024-06-10
+1eb9b9bf-b2c1-4867-ae8b-97270efd836e,Angela Parker,21,Other,Kaduna,Undergraduate,Mock Exam,Falsification of results,No,2024-09-25
+8801802a-ec7d-4242-9c25-e177351465b1,Michael Reeves,22,Male,Abuja,Postgraduate,Mock Exam,Falsification of results,No,2024-10-21
+fade5eb0-8511-4c2e-9830-7c2dc28cfe55,Taylor Fritz,18,Other,Benin,Undergraduate,Mock Exam,Cheating with electronic devices,No,2025-02-09
+939800bb-26e5-4a94-b216-8537a519073b,John Morrow,20,Female,Kaduna,High School,Mock Exam,Cheating with electronic devices,No,2025-04-01
+a7e1eda1-d63f-48b9-8ce5-8874ecc6e654,Stephanie Pena,25,Female,Lagos,High School,NECO,Falsification of results,Yes,2023-09-26
+50ec36b7-f0cf-410e-ad10-d4d99e488da7,Kendra Ellis,15,Male,Kano,Undergraduate,Mock Exam,Impersonation,No,2024-02-09
+10875231-8b67-4429-acec-4e7c201bfad8,Katherine Johns,29,Male,Port Harcourt,Postgraduate,JAMB,Impersonation,No,2025-07-03
+5bead9f7-d384-4a4e-b66f-b89dc4d9494c,Alyssa Price,28,Other,Enugu,High School,Mock Exam,Cheating with electronic devices,No,2023-12-07
+b13bd408-4f4f-401d-b05d-c3afb86ebc41,Gregory Blevins,19,Female,Lagos,Undergraduate,Mock Exam,Cheating with electronic devices,Yes,2024-02-25
+78b2bacd-bf1b-4a54-b043-21b7c6f34724,Donna West,26,Male,Ibadan,High School,NECO,Smuggling of unauthorized materials,No,2025-06-21
+0bb70bba-0d6f-46ab-851a-80c6d8ca0906,Lauren Bean,25,Other,Kaduna,Undergraduate,University Exam,Smuggling of unauthorized materials,Yes,2025-07-21
+eb6453bc-bb9d-4629-97db-c0370d5e89b3,Tyler Shelton,20,Female,Kano,High School,Mock Exam,Smuggling of unauthorized materials,No,2024-09-23
+16877de5-b975-42ac-8480-d7d24c0ba28b,Michelle Gibbs,28,Male,Ibadan,Postgraduate,NECO,Collusion with other candidates,Yes,2024-09-11
+af20910b-d742-40ba-ad0d-50256b442a57,Brenda Moore,17,Other,Lagos,High School,University Exam,Use of external assistance,No,2024-08-25
+d2c24a8d-b445-4f1a-8f7e-c03f235e8254,Elizabeth Leon,19,Male,Kano,Postgraduate,University Exam,Falsification of results,No,2025-07-11
+515e843a-5fd8-49ea-91d7-90bb675dbee2,Adam Brown,28,Other,Kano,Undergraduate,Mock Exam,Smuggling of unauthorized materials,No,2023-10-07
+ae1723c8-6853-45dc-99aa-3f9ef2c4c41e,Samantha Gonzalez,27,Female,Port Harcourt,High School,University Exam,Copying from neighbors,Yes,2025-06-28
+1ad85566-f2fa-48bf-abae-b98c9c5f195d,Alexis Salas,30,Other,Port Harcourt,Postgraduate,Mock Exam,Impersonation,No,2024-09-23
+4fe6dce8-d616-474d-9eb1-9774a6eec197,Amy Sparks,26,Male,Lagos,Postgraduate,University Exam,Use of external assistance,No,2023-11-23
+5d6ef235-caf7-460b-b392-8d27c45151cb,Kathryn Turner,18,Other,Benin,Postgraduate,WAEC,Collusion with other candidates,No,2024-12-29
+dcc55f7e-ad41-4a04-bf59-d93e977f59ff,Steven Lyons,29,Other,Abuja,Postgraduate,Mock Exam,Cheating with electronic devices,Yes,2025-07-18
+0ba3bda1-bfc2-4d03-9f52-625aad94c339,Christopher Franco,30,Other,Abuja,Postgraduate,Mock Exam,Falsification of results,No,2024-05-11
+39880189-bd34-43a6-904d-0bb6d1723cbe,Adam Bailey,16,Female,Lagos,Undergraduate,University Exam,Copying from neighbors,No,2024-10-21
+6a597680-8b90-4bff-8f76-645e663a2a86,Alicia Drake,25,Female,Enugu,Undergraduate,JAMB,Collusion with other candidates,Yes,2023-12-09
+05656488-6e85-44a6-8900-3f6966c75cc7,Meghan Martinez,24,Other,Ibadan,High School,University Exam,Copying from neighbors,Yes,2024-03-03
+68e07bdf-36e1-4649-ab35-117e261d217d,Nicole Pope,16,Other,Ibadan,Postgraduate,Mock Exam,Cheating with electronic devices,No,2024-10-05
+45fdc8eb-f00b-4eaa-83d3-062fa7a8f8e4,Matthew Washington,30,Male,Kano,Postgraduate,WAEC,Falsification of results,No,2024-11-20
+b8b7173c-0aa7-439d-981f-e622e00fa430,Matthew Reyes,23,Male,Ibadan,Undergraduate,JAMB,Cheating with electronic devices,Yes,2024-04-26
+4dee065d-efa0-4ce5-8bd4-67457ddfede1,Lynn Brown,20,Other,Kano,Postgraduate,University Exam,Impersonation,Yes,2024-10-24
+f612c92e-4dd6-4a3d-9a94-fefaddc7f0c2,Christopher Turner,23,Other,Port Harcourt,Undergraduate,NECO,Falsification of results,Yes,2024-11-30
+584ad6c4-6a3c-463d-82df-4d469cadf7ac,Jessica Gonzalez,25,Male,Kano,Postgraduate,NECO,Falsification of results,No,2025-07-09
+450820b6-4d3d-453b-aad9-35276b7adefc,Katrina Fox DDS,28,Female,Port Harcourt,Postgraduate,University Exam,Use of external assistance,Yes,2025-05-20
+16e9930e-9b63-4290-89bb-49e7bca16ee8,Megan George,21,Other,Enugu,High School,JAMB,Falsification of results,Yes,2024-10-03
+9b33e1c7-975e-4a4b-8b2e-5e17ce170584,Jeremiah Rodgers,16,Male,Benin,Undergraduate,University Exam,Impersonation,No,2023-12-14
+e0f40247-63f4-499e-9ec6-69deb203515f,Alicia Alvarez,22,Female,Kaduna,Undergraduate,JAMB,Collusion with other candidates,No,2023-10-27
+eef46c66-79bc-4a53-ac1f-9da1fe2d8ee0,Paula Lewis,15,Female,Benin,Undergraduate,JAMB,Copying from neighbors,Yes,2025-01-07
+7f25e5ee-edab-46f1-90e8-6f21fe3fc95f,Brandy Peterson,18,Other,Enugu,Undergraduate,Mock Exam,Use of external assistance,No,2024-07-29
+ec649025-072c-4aa3-b809-bd229152c18d,Lisa Nguyen,25,Female,Ibadan,High School,JAMB,Use of external assistance,No,2023-12-01
+afe1fdde-f158-43e2-87b5-a0ed1fe93f93,Toni Wilson,29,Other,Port Harcourt,Postgraduate,Mock Exam,Falsification of results,Yes,2024-06-10
+dada315a-ac7b-4725-bd4b-f7ccd0175678,Steven Davis,25,Other,Kano,Undergraduate,Mock Exam,Cheating with electronic devices,Yes,2025-05-16
+34758e10-594c-4c5e-8373-c2ddad1030b6,Ryan Cole,17,Male,Kaduna,High School,Mock Exam,Cheating with electronic devices,No,2024-07-03
+c79fa886-9cb6-4ebe-9724-17bae42ffb5d,Pam Morgan,26,Male,Ibadan,Undergraduate,NECO,Cheating with electronic devices,Yes,2023-12-17
+b5fa620e-be87-4041-a5e7-a2662f59ff71,Katie Browning,17,Male,Port Harcourt,Postgraduate,WAEC,Use of external assistance,Yes,2025-03-13
+8d2ab2bf-7a51-4b67-957b-8c254d90ad79,Austin Vance,17,Other,Kano,Undergraduate,Mock Exam,Falsification of results,Yes,2024-03-02
+fc8504e2-484a-4310-a458-ba1c166ca1ab,Patricia Rogers,18,Other,Kano,Undergraduate,JAMB,Smuggling of unauthorized materials,Yes,2025-05-17
+6070059f-747e-4a15-afea-ebad68cf8a35,Judy Parker,29,Female,Kaduna,Postgraduate,JAMB,Impersonation,Yes,2025-02-09
+2d329382-8e1a-475a-92fa-53e00cef0f8f,Steven Landry,17,Female,Lagos,Undergraduate,University Exam,Impersonation,Yes,2024-10-19
+deedb881-9e44-47e8-b180-613debd04894,Andrea Beard,23,Female,Kano,Undergraduate,WAEC,Smuggling of unauthorized materials,Yes,2023-11-08
+56930ca1-dee4-400d-87d6-56a4ce8c2dfe,James Kelly,27,Male,Benin,High School,NECO,Copying from neighbors,No,2025-07-21
+1b22122e-57b1-4353-9ba6-9f6a55a1be8c,Michael Hawkins,21,Other,Abuja,Undergraduate,JAMB,Cheating with electronic devices,Yes,2025-05-30
+ba06177e-2d1c-4bfe-af8c-f0fdc43c9881,Steven Coleman,17,Male,Ibadan,Undergraduate,WAEC,Smuggling of unauthorized materials,Yes,2024-01-16
+6a190a50-13c1-4891-a6f9-33571fe15934,Ms. Terry Mosley MD,15,Male,Kaduna,Undergraduate,NECO,Use of external assistance,No,2024-04-08
+29ebb608-838b-4211-a252-63eeac9c7911,Eddie Ruiz,27,Other,Lagos,Postgraduate,University Exam,Smuggling of unauthorized materials,No,2024-07-30
+de0a90ec-16dc-4e95-93c1-4fe7663ca074,Anna Fields,27,Other,Abuja,Postgraduate,NECO,Cheating with electronic devices,No,2025-06-30
+d2eeb35a-e97a-4950-a151-9d1aaac41db2,Dr. Robert Li,30,Male,Enugu,Undergraduate,JAMB,Smuggling of unauthorized materials,Yes,2024-03-02
+db343934-eaab-49fa-914a-c63b218c30af,Roger Johnson,17,Female,Enugu,High School,University Exam,Falsification of results,No,2024-07-05
+dbf3a9b4-4aa4-455d-a09e-ae7b05a1bede,Kristin Foster,21,Male,Lagos,Undergraduate,NECO,Impersonation,No,2024-08-16
+87c5acbb-ec42-4d55-b427-6c4374d8e33e,Sally Watts,18,Other,Enugu,Undergraduate,WAEC,Use of external assistance,No,2023-12-05
+8655759e-a667-4f65-bf98-7d06032fb69d,Gabriel Allison,21,Male,Lagos,High School,WAEC,Use of external assistance,Yes,2024-04-02
+5ade7239-d674-4abf-8b5b-e6b0fbf08138,Amy Scott,30,Female,Abuja,Postgraduate,JAMB,Smuggling of unauthorized materials,No,2024-06-10
+f72f62a9-84a5-40d0-9a93-7f44dd873e8c,Megan Marsh,15,Male,Enugu,High School,JAMB,Falsification of results,Yes,2024-01-31
+ba93effd-2bbc-4d53-ac8b-d4ede0479192,Sharon Baker,27,Male,Port Harcourt,Postgraduate,Mock Exam,Smuggling of unauthorized materials,Yes,2025-07-21
+6c1ac01e-a387-42c4-9adb-ebb993ef89dc,Christina Bell MD,22,Male,Lagos,Postgraduate,NECO,Smuggling of unauthorized materials,Yes,2024-04-06
+c7b15a47-7969-4736-90c8-27b26d72087d,Jeffrey Mckay,30,Other,Lagos,High School,NECO,Cheating with electronic devices,Yes,2024-01-02
+f674f749-0be0-4fda-ab47-03023e6fa87d,Christina Mckinney,16,Female,Abuja,Undergraduate,Mock Exam,Collusion with other candidates,Yes,2023-12-13
+e5908b20-88e3-4fc2-9500-8c232b9fc7e0,Cristian Hall,18,Male,Benin,Postgraduate,Mock Exam,Collusion with other candidates,Yes,2024-11-14
+18d295ea-49b0-45ec-a0b4-f51c67c6436e,Tiffany Leach,21,Female,Enugu,Postgraduate,University Exam,Impersonation,Yes,2024-05-20
+8602c270-56c5-4ca3-8577-58f9d2b09dcf,Kyle Cole,19,Female,Port Harcourt,High School,Mock Exam,Collusion with other candidates,No,2024-03-28
+616c0928-d4db-4973-bcaf-22b491d4c5b8,David Smith,17,Male,Ibadan,High School,University Exam,Collusion with other candidates,No,2025-05-19
+13f347c5-bbea-49eb-878a-a37960ca4b9e,Kaitlyn Gonzalez,20,Female,Port Harcourt,Postgraduate,WAEC,Collusion with other candidates,Yes,2024-06-26
+1a92d128-0a1a-4b90-a692-a527527ea6be,Taylor Brooks,27,Male,Lagos,Undergraduate,WAEC,Cheating with electronic devices,Yes,2024-05-30
+486befc8-b698-45b2-a4d5-2810ae7d689f,Alex Leonard,20,Male,Ibadan,Undergraduate,University Exam,Use of external assistance,Yes,2024-01-08
+c42ee739-c332-4705-b9bf-eab032fce3d6,Amanda Bowen,21,Male,Ibadan,Postgraduate,University Exam,Smuggling of unauthorized materials,Yes,2024-05-03
+073e628c-7207-4e86-8d0d-0542983087c8,Heidi Scott,20,Other,Lagos,Postgraduate,NECO,Use of external assistance,No,2024-03-19
+aa7832a4-ae7b-40b1-ae93-fe0c151984c3,George Henry,17,Other,Ibadan,Undergraduate,University Exam,Cheating with electronic devices,Yes,2024-12-19
+238e50cc-2ecf-4f4a-b7bb-b3eddee59e9c,Jessica Navarro,21,Male,Abuja,Postgraduate,JAMB,Falsification of results,Yes,2024-09-08
+e01b1f40-1735-42b8-8d82-70124ffbc19d,Justin Walters,29,Other,Port Harcourt,Undergraduate,WAEC,Collusion with other candidates,Yes,2024-03-18
+54dd35ad-628c-4754-9ea0-899fdbf15c19,Erica Hawkins,19,Other,Benin,Undergraduate,NECO,Collusion with other candidates,Yes,2024-07-31
+4d9153a7-ec77-4ae5-864f-5316d19c7233,Christy Velazquez,16,Other,Enugu,Undergraduate,NECO,Smuggling of unauthorized materials,No,2025-01-12
+18248335-3dfc-45eb-a1e8-5ff78527e461,Christina Thomas,25,Other,Benin,High School,WAEC,Use of external assistance,Yes,2025-02-17
+06867157-819d-4b82-9762-d9b2dbed9245,Wanda Weiss,20,Male,Lagos,Undergraduate,Mock Exam,Cheating with electronic devices,Yes,2023-08-18
+d440c03c-ae14-4d76-9beb-afb5d2ad709c,Daniel Murray,22,Other,Benin,Postgraduate,Mock Exam,Impersonation,No,2024-11-20
+b9231ece-778c-41ea-965d-6c50844f64e0,John Wilson,21,Other,Enugu,High School,WAEC,Impersonation,Yes,2023-11-18
+052d7027-3b29-483c-b8ef-e9ab96b61c07,Jesus Moore,18,Male,Kaduna,High School,University Exam,Collusion with other candidates,Yes,2025-01-14
+4faa07a1-8bcc-4e3b-810c-a695bd083fef,Michael Berry,30,Other,Benin,High School,University Exam,Collusion with other candidates,Yes,2024-05-31
+2cb207e4-bd59-4888-bce9-4e7659723019,Nancy Chen,29,Male,Kaduna,Undergraduate,NECO,Smuggling of unauthorized materials,Yes,2025-07-14
+01fe3b10-3936-4f64-8fd3-e6f1d35ecc56,Andrew Sutton,26,Female,Port Harcourt,Undergraduate,NECO,Cheating with electronic devices,Yes,2024-07-29
+4141677e-5cb1-441c-9c8b-3a23516b8d13,Jesse Murphy,23,Male,Abuja,Undergraduate,University Exam,Smuggling of unauthorized materials,Yes,2024-11-04
+e5748624-5d79-4ca1-8a77-1186cb4d1c1d,Justin Casey,25,Male,Ibadan,Postgraduate,NECO,Falsification of results,Yes,2024-01-25
+21a1e549-c14e-41b4-99f6-b6ffa63ecf4a,Amanda Walker,22,Male,Kaduna,Postgraduate,University Exam,Falsification of results,Yes,2023-11-02
